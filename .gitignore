@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+*.log
+
+# Dados brutos do SP156 (~100 MB cada): baixados por python -m zela.dados
+2TIAO/GLOBAL-SOLUTION-1/data/raw/*.csv
+2TIAO/GLOBAL-SOLUTION-1/data/runtime/
+
+# Interface: dependências e build são gerados
+node_modules/
+2TIAO/GLOBAL-SOLUTION-1/src/web/dist/
+
+# Enunciado da atividade e arquivos de trabalho locais
+entrega.txt
+README.template.md
