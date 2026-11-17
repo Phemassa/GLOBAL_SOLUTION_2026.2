@@ -1,0 +1,354 @@
+     Glossário da Base de Dados do SP156 – 2020 em diante
+                             (atualizado em 10/08/2026)
+
+
+
+O glossário do SP156 atua como um guia elucidativo sobre as colunas que
+compõem os arquivos relacionados às solicitações dos cidadãos nos canais SP156.
+Essa orientação tem como objetivo promover a transparência e tornar esses dados
+mais úteis para a população em geral, jornalistas, funcionários públicos e outros
+interessados que buscam informações.
+
+
+IMPORTANTE: É fundamental destacar que o SP156 não tem a responsabilidade
+de executar o serviço solicitado. A prestação do serviço é tarefa do órgão
+competente, conforme acordado na Carta de Serviços.
+
+IMPORTANTE: Para que possamos criar Cartas de Serviço, é necessário que um
+órgão competente manifeste interesse em disponibilizar o serviço através dos
+nossos canais, pactue informações sobre como acessá-lo, estabeleça padrões de
+qualidade e compromissos de atendimento aos cidadãos.
+
+Em cada documento disponibilizamos duas abas distintas para facilitar a consulta:
+Aba “Solicitações”: reúne todos os protocolos abertos no período indicado.
+Aba “Pesquisa de satisfação”: apresenta apenas os protocolos que receberam avaliação do munícipe.
+Essa separação foi adotada para melhorar a visualização e a análise das informações. Como nem todas as solicitações são avaliadas, manter todos os dados em uma única aba resultaria em diversas linhas vazias, o que poderia gerar confusão e prejudicar a interpretação dos resultados. Com o novo formato, a leitura fica mais intuitiva e a análise dos dados se torna mais precisa.
+
+
+
+   A partir daqui a orientação sobre as colunas segue da esquerda para a direita.
+
+Aba "Solicitações":
+
+      1.1. Data de Abertura (Primeira coluna)
+
+
+Este dado refere-se à data de abertura do protocolo de um serviço aberto pelo
+cidadão nos canais de atendimento SP156.
+
+
+Os dados estão acessíveis desde 2015. De 2015 a 2019, as informações estão
+segmentadas semestralmente, onde o primeiro semestre abrange as solicitações
+abertas de 01 de janeiro a 30 de junho, e o segundo semestre, de 01 de julho a 31
+de dezembro de cada ano.
+A partir de 2020, devido ao considerável aumento de solicitações, iniciamos a
+publicação trimestral.
+
+
+As datas em cada relatório incluem apenas as solicitações feitas durante o período
+indicado no relatório baixado. Por exemplo, o relatório "Dados do SP156 - 2° SEM
+2017" contém informações apenas das solicitações abertas no segundo semestre
+de 2017, ou seja, de 01/07/2017 às 00:00:00 até 31/12/2017 às 23:59:59
+(considerando hora, minuto e segundo padrão).
+
+
+
+      1.2. Data de Finalização (segunda coluna)
+
+Esta coluna trata-se da data de fechamento do protocolo de um serviço solicitado
+pelo cidadão.
+
+
+
+      1.3. Meio de comunicação (terceira coluna)
+
+Esta coluna registra o canal utilizado para efetuar a solicitação de serviço, podendo
+abranger:
+   ● PORTAL ONLINE: Inclui solicitações realizadas por meio da interface
+      centralizada na web, juntamente com os serviços integrados, como Praças de
+      Atendimento das Subprefeituras, Companhia de Engenharia de Tráfego
+      (CET) e Polícia Militar (PM).
+
+
+   ● CENTRAL TELEFÔNICA: Engloba solicitações feitas por meio da ligação
+      para o número 156.
+
+
+   ● APLICATIVO: Este canal, acessível por meio de um aplicativo mais leve,
+      oferece 10 serviços disponíveis para utilização nas versões IOS e Android.
+   ● CHATBOT: Pode ser utilizado no portal e no WhatsApp para solicitar 11
+       serviços por meio do telefone: (11) 3230-5156.
+
+
+
+Os sistemas que estavam conectados ao SP156 foram desativados para que o foco
+nos canais SP156 e nas solicitações de serviço seja exclusivamente nas
+comunicações dos cidadãos. Eles deixaram de aceitar novas solicitações em
+dezembro de 2017 e junho de 2018, respectivamente.
+
+
+       1.4. Tema e Assunto (quarta e quinta colunas)
+
+No portal SP156, as colunas "Tema" e "Assunto" referem-se à categorização do
+serviço solicitado com base na Carta de Serviços da Prefeitura de São Paulo.
+
+
+   ●   Tema: Indica a categoria geral ou o tópico amplo ao qual o serviço pertence.
+       Por exemplo, "Saúde", "Educação", "Transporte", etc.
+
+
+   ●   Assunto: Refere-se a uma subdivisão mais específica dentro do tema,
+       identificando com maior detalhe o conteúdo ou a natureza da solicitação. Por
+       exemplo, dentro do tema "Saúde", o assunto pode ser "Agendamento de
+       Consulta", "Vacinação", entre outros.
+
+
+Essa categorização ajuda a organizar e classificar as solicitações de serviço,
+facilitando a análise e o acompanhamento por parte da administração pública.
+
+
+       1.5. Serviço (sexta coluna)
+
+A coluna "Serviços" no portal SP156 fornece detalhes sobre o serviço específico
+solicitado pelo cidadão, seguindo as categorias da Carta de Serviços da Prefeitura
+de São Paulo. Por exemplo, se alguém fizer uma solicitação relacionada a "Reparos
+em asfaltos, pontes e viadutos", o campo "Serviços" indicarão se a requisição é para
+relatar tapa-buracos ou para pavimentação de ruas não asfaltadas.
+       1.6. Status da Solicitação (sétima coluna)
+
+Informa o status da solicitação, na data de emissão do relatório. São quatro os
+status possíveis:
+
+   ●   Aberta: a solicitação foi registrada e está aguardando tratamento pelo órgão
+       responsável.
+
+   ●   Em andamento: a solicitação foi registrada e já começou a ser analisada pelo
+       órgão responsável.
+
+   ●   Indeferido: a solicitação    foi indeferida pelo órgão responsável pelo
+       atendimento.
+
+   ●   Cancelada: a solicitação foi cancelada pela (o) cidadã (ão) que a realizou.
+
+   ●   Finalizado: a solicitação foi finalizada pelo órgão competente.
+
+IMPORTANTE: Os status neste relatório referem-se exclusivamente às solicitações
+de serviços registradas pelos canais do SP156. Assim, não é possível dizer que o
+número de solicitações recebidas corresponde ao número de problemas existentes
+na cidade. Um (a) cidadão (ã) pode abrir mais de uma solicitação para o mesmo
+serviço ou várias pessoas podem solicitar o mesmo serviço. Da mesma forma, um
+serviço pode ser executado pela Prefeitura mesmo sem ter recebido a solicitação de
+um (a) cidadão (ã).
+
+
+       1.7. Órgão (oitava coluna)
+
+Refere-se ao setor governamental ao qual a solicitação estava vinculada no
+momento em que o relatório do banco de dados foi gerado. O sistema de
+atendimento possibilita a transferência de solicitações entre diferentes órgãos após
+a abertura, podendo haver variações entre relatórios.
+
+
+Por exemplo, um serviço de Tapa-Buraco, inicialmente tratado pela SMSUB, pode
+ser identificado como "Tapa-Buraco em Corredor de Ônibus" durante o processo e
+ser encaminhado para a SPTrans.
+      1.8. Logradouro, Número, CEP, Subprefeitura e Distrito (nona até
+           décima terceira coluna)
+
+Esses cinco campos formam conjuntamente o endereço do local onde cada
+solicitação deve ser atendida.
+  ●   Logradouro: Refere-se ao nome da via (rua, avenida, estrada, alameda   a,
+      acesso, ponte, viaduto, etc.), praça, largo ou outros locais onde a solicitação
+      deve ser atendida.
+
+
+  ●   Número: Indica a posição exata ou aproximada na via ou no local onde a
+      solicitação deve ser atendida, com base na numeração das edificações
+      daquele logradouro.
+
+
+  ●   CEP (Código de Endereçamento Postal):** É o código cadastrado pelos
+      Correios, correspondente à via e ao número do local de atendimento da
+      solicitação. Ele contribui para a precisão do endereçamento, indicando o lado
+      par ou ímpar da via.
+
+
+  ●   Subprefeitura e Distritos: Representam as divisões político-administrativas
+      oficiais da Cidade de São Paulo. O território municipal é subdividido em
+      Prefeituras Regionais, as quais, por sua vez, se dividem em Distritos. Esses
+      dois campos auxiliam na precisão do endereçamento e na rota das
+      solicitações para os órgãos responsáveis pelo atendimento ou resolução.
+
+Aba "Pesquisa de satisfação":
+
+1.1. Data de Abertura (Primeira coluna)
+
+
+Este dado refere-se à data de abertura do protocolo de um serviço aberto pelo
+cidadão nos canais de atendimento SP156.
+
+
+Os dados estão acessíveis desde 2015. De 2015 a 2019, as informações estão
+segmentadas semestralmente, onde o primeiro semestre abrange as solicitações
+abertas de 01 de janeiro a 30 de junho, e o segundo semestre, de 01 de julho a 31
+de dezembro de cada ano.
+A partir de 2020, devido ao considerável aumento de solicitações, iniciamos a
+publicação trimestral.
+
+
+As datas em cada relatório incluem apenas as solicitações feitas durante o período
+indicado no relatório baixado. Por exemplo, o relatório "Dados do SP156 - 2° SEM
+2017" contém informações apenas das solicitações abertas no segundo semestre
+de 2017, ou seja, de 01/07/2017 às 00:00:00 até 31/12/2017 às 23:59:59
+(considerando hora, minuto e segundo padrão).
+
+
+
+      1.2. Data de Finalização (segunda coluna)
+
+Esta coluna trata-se da data de fechamento do protocolo de um serviço solicitado
+pelo cidadão.
+
+
+
+      1.3. Canal (terceira coluna)
+
+Esta coluna registra o canal utilizado para efetuar a solicitação de serviço, podendo
+abranger:
+   ● PORTAL ONLINE: Inclui solicitações realizadas por meio da interface
+      centralizada na web, juntamente com os serviços integrados, como Praças de
+      Atendimento das Subprefeituras, Companhia de Engenharia de Tráfego
+      (CET) e Polícia Militar (PM).
+
+
+   ● CENTRAL TELEFÔNICA: Engloba solicitações feitas por meio da ligação
+      para o número 156.
+
+
+   ● APLICATIVO: Este canal, acessível por meio de um aplicativo mais leve,
+      oferece 10 serviços disponíveis para utilização nas versões IOS e Android.
+   ● CHATBOT: Pode ser utilizado no portal e no WhatsApp para solicitar 11
+       serviços por meio do telefone: (11) 3230-5156.
+
+
+
+Os sistemas que estavam conectados ao SP156 foram desativados para que o foco
+nos canais SP156 e nas solicitações de serviço seja exclusivamente nas
+comunicações dos cidadãos. Eles deixaram de aceitar novas solicitações em
+dezembro de 2017 e junho de 2018, respectivamente.
+
+
+       1.4. Tema e Assunto (quarta e quinta colunas)
+
+No portal SP156, as colunas "Tema" e "Assunto" referem-se à categorização do
+serviço solicitado com base na Carta de Serviços da Prefeitura de São Paulo.
+
+
+   ●   Tema: Indica a categoria geral ou o tópico amplo ao qual o serviço pertence.
+       Por exemplo, "Saúde", "Educação", "Transporte", etc.
+
+
+   ●   Assunto: Refere-se a uma subdivisão mais específica dentro do tema,
+       identificando com maior detalhe o conteúdo ou a natureza da solicitação. Por
+       exemplo, dentro do tema "Saúde", o assunto pode ser "Agendamento de
+       Consulta", "Vacinação", entre outros.
+
+
+Essa categorização ajuda a organizar e classificar as solicitações de serviço,
+facilitando a análise e o acompanhamento por parte da administração pública.
+
+
+       1.5. Serviço (sexta coluna)
+
+A coluna "Serviços" no portal SP156 fornece detalhes sobre o serviço específico
+solicitado pelo cidadão, seguindo as categorias da Carta de Serviços da Prefeitura
+de São Paulo. Por exemplo, se alguém fizer uma solicitação relacionada a "Reparos
+em asfaltos, pontes e viadutos", o campo "Serviços" indicarão se a requisição é para
+relatar tapa-buracos ou para pavimentação de ruas não asfaltadas.
+       1.6. Status da Solicitação (sétima coluna)
+
+Informa o status da solicitação, na data de emissão do relatório. São quatro os
+status possíveis:
+
+   ●   Aberta: a solicitação foi registrada e está aguardando tratamento pelo órgão
+       responsável.
+
+   ●   Em andamento: a solicitação foi registrada e já começou a ser analisada pelo
+       órgão responsável.
+
+   ●   Indeferido: a solicitação    foi indeferida pelo órgão responsável pelo
+       atendimento.
+
+   ●   Cancelada: a solicitação foi cancelada pela (o) cidadã (ão) que a realizou.
+
+   ●   Finalizado: a solicitação foi finalizada pelo órgão competente.
+
+IMPORTANTE: Os status neste relatório referem-se exclusivamente às solicitações
+de serviços registradas pelos canais do SP156. Assim, não é possível dizer que o
+número de solicitações recebidas corresponde ao número de problemas existentes
+na cidade. Um (a) cidadão (ã) pode abrir mais de uma solicitação para o mesmo
+serviço ou várias pessoas podem solicitar o mesmo serviço. Da mesma forma, um
+serviço pode ser executado pela Prefeitura mesmo sem ter recebido a solicitação de
+um (a) cidadão (ã).
+
+
+       1.7. Órgão (oitava coluna)
+
+Refere-se ao setor governamental ao qual a solicitação estava vinculada no
+momento em que o relatório do banco de dados foi gerado. O sistema de
+atendimento possibilita a transferência de solicitações entre diferentes órgãos após
+a abertura, podendo haver variações entre relatórios.
+
+
+Por exemplo, um serviço de Tapa-Buraco, inicialmente tratado pela SMSUB, pode
+ser identificado como "Tapa-Buraco em Corredor de Ônibus" durante o processo e
+ser encaminhado para a SPTrans.
+      1.8. Logradouro, Número, CEP, Latitude, longitude, Subprefeitura e Distrito (nona até
+           décima quinta coluna)
+
+Esses cinco campos formam conjuntamente o endereço do local onde cada
+solicitação deve ser atendida.
+  ●   Logradouro: Refere-se ao nome da via (rua, avenida, estrada, alameda   a,
+      acesso, ponte, viaduto, etc.), praça, largo ou outros locais onde a solicitação
+      deve ser atendida.
+
+
+  ●   Número: Indica a posição exata ou aproximada na via ou no local onde a
+      solicitação deve ser atendida, com base na numeração das edificações
+      daquele logradouro.
+
+
+  ●   CEP (Código de Endereçamento Postal):** É o código cadastrado pelos
+      Correios, correspondente à via e ao número do local de atendimento da
+      solicitação. Ele contribui para a precisão do endereçamento, indicando o lado
+      par ou ímpar da via.
+
+●  Latitude: Sistema de coordenadas geográficas que se utiliza de linhas imaginárias para achar algum determinado lugar. A latitude mede a distância em graus até a Linha do Equador (0° a 90° Norte ou Sul).
+
+● Longitude: Sistema de coordenadas geográficas que se utiliza de linhas imaginárias para achar algum determinado lugar. A longitude mede a distância em graus até o Meridiano de Greenwich (0° a 180° Leste ou Oeste).
+
+
+  ●   Subprefeitura e Distritos: Representam as divisões político-administrativas
+      oficiais da Cidade de São Paulo. O território municipal é subdividido em
+      Prefeituras Regionais, as quais, por sua vez, se dividem em Distritos. Esses
+      dois campos auxiliam na precisão do endereçamento e na rota das
+      solicitações para os órgãos responsáveis pelo atendimento ou resolução.
+
+1.9. Nível de Satisfação (décima quarta coluna)
+
+Esta coluna apresenta a avaliação geral atribuída pelo cidadão ao finalizar sua experiência com o serviço solicitado.
+O nível de satisfação é informado por meio de nota ou escala disponível no momento da avaliação e reflete a percepção global do usuário quanto ao atendimento prestado pelo órgão responsável.
+1.10. Qualidade do Serviço (décima quinta coluna)
+
+Indica como o cidadão avaliou a qualidade do serviço prestado, considerando fatores como eficiência, precisão, prazo de execução e adequação da solução apresentada.
+Essa informação auxilia na análise do desempenho dos órgãos responsáveis e na identificação de oportunidades de melhoria.
+
+1.11. Atendeu à Solicitação (décima sexta coluna)
+
+Esta coluna registra se o serviço prestado atendeu ou não à necessidade original informada pelo cidadão.
+O campo geralmente é preenchido com respostas objetivas, como "Sim", "Não" ou equivalentes, e oferece uma visão direta sobre a efetividade do atendimento.
+
+1.12. Compreensão da Resposta (décima sétima coluna)
+
+Refere-se à clareza da comunicação enviada ao cidadão sobre a resolução ou encaminhamento da sua solicitação.
+Avalia se a resposta foi compreensível, transparente e suficiente para que o usuário entendesse o motivo da decisão do órgão ou os próximos passos relacionados ao atendimento.

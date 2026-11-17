@@ -1,0 +1,13 @@
+categoria,rotulo,servicos_sp156,pedidos_2_trimestres,pct_ainda_aberto_t2,mediana_dias,p80_dias,orgao_mais_frequente,pct_orgao_mais_frequente
+entulho,Entulho ou descarte irregular,3,71382,3.2,1.0,2.0,INTEGRAÇÃO-AMLURB-FLIP,95.6
+buraco,Buraco ou asfalto danificado,3,53600,31.8,6.0,20.0,INTEGRAÇÃO-SMGI/SGZ,95.8
+arvore,"Árvore em via pública (poda, queda, risco)",1,33404,22.2,15.0,40.0,INTEGRAÇÃO-SMGI/SGZ,100.0
+barulho,Barulho excessivo,1,30318,66.4,29.0,53.0,INTEGRACAO-SGF,100.0
+calcada,"Calçada, guia, fiação solta ou poste",6,24558,56.4,14.0,48.0,INTEGRAÇÃO-SMGI/SGZ,74.8
+veiculo,Veículo abandonado,1,24069,77.5,35.0,61.0,INTEGRACAO-SGF,100.0
+varricao,Rua suja ou falta de varrição,5,20240,3.2,1.0,2.0,INTEGRAÇÃO-AMLURB-FLIP,100.0
+capinacao,Mato alto em área pública,2,17518,5.1,1.0,11.0,INTEGRAÇÃO-AMLURB-FLIP,51.3
+drenagem,Boca de lobo ou alagamento,3,16923,19.2,3.0,19.0,INTEGRAÇÃO-AMLURB-FLIP,60.7
+pragas,"Ratos, insetos ou animais que transmitem doenças",6,12138,13.8,18.0,42.0,INTEGRACAO-SISCOZ,10.9
+sinalizacao,"Sinalização, placa ou semáforo",7,6553,21.6,13.0,37.0,INTEGRACAO-CET,100.0
+coleta,Coleta de lixo não passou,1,5819,0.5,2.0,4.0,INTEGRACAO-AMLURB-ECOURBIS,55.2
