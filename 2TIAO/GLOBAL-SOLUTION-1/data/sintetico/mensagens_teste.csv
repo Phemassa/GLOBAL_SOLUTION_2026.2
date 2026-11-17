@@ -1,0 +1,601 @@
+texto,categoria,conjunto,grupo,origem
+VEHNO INFORMAR QUE MATO ALTO ATRAI COBRA E ESCORPIAO PERTO DAS CASAS ATRAS DO MERCADO. NINGUEM FAZ NADA.,capinacao,B,capinacao:frase:3,sintetico
+venho informar que solicito rocada da area publica no fim da rua sem saida. ninguem faz nada.,capinacao,B,capinacao:frase:0,sintetico
+"socorro, solicito equipe d evarrição para o quarteirão na viela do bairro. aguardo retorno.",varricao,B,varricao:frase:3,sintetico
+"SOCORRO, SOLICITO ROÇADA DA ÁREA PÚBLICA TARÁS DO MERCADO. URGENTE!",capinacao,B,capinacao:frase:0,sintetico
+"socorro, tampa do bueiro afundou e virou armadilha. ninguém faz nada.",drenagem,B,drenagem:frase:2,sintetico
+"oi, a academia ligam úsica alta muito cedo. moradores estão revoltados.",barulho,B,barulho:frase:3,sintetico
+"oi, lombada sem pintura e sem placa de aviso proximo a creche. urgente!",sinalizacao,B,sinalizacao:frase:4,sintetico
+estabelecimento descumpre o horário e faz barulho no fim da rua sem saída.,barulho,B,barulho:frase:5,sintetico
+venho informar que formou um afundamento grande no pavimento próximo à creche.,buraco,B,buraco:frase:0,sintetico
+perturbação do sossego com som ligado a noite toda no fim da rua sem saída. moradores estão revoltados.,barulho,B,barulho:frase:4,sintetico
+boa tarde. a escadaria pública está cheia de sujeira atrás do mercado. urgente!,varricao,B,varricao:frase:2,sintetico
+boa tarde. vegetacao alta escondendo o ponto de onibus no fim da rua sem saida. moradores estao revoltados.,capinacao,B,capinacao:frase:1,sintetico
+boa tarde. ficou lama e terra na rua depois da obra no fim da rua sem saída. aguardo retorno.,varricao,B,varricao:frase:1,sintetico
+alguém pode ajudar? lixo residencial acumulado atraindo bichos na altura do ponto de ônibus. moradores estão revoltados.,coleta,B,coleta:frase:4,sintetico
+VENHO INFORMAR QUE O BARRANCO ESTÁ COBERTO DE MATO PRÓXIMO À CRECHE. NINGUÉM FAZ NADA.,capinacao,B,capinacao:frase:2,sintetico
+boa tarde. emaranhado de fios baixos quase encostando nos carros. moradores estão revoltados.,calcada,B,calcada:frase:1,sintetico
+LIXO RESIDENCIAL ACUMULADO ATRAINDO BICHOS NA VIELA DO BAIRRO. AGUARDO RETORNO.,coleta,B,coleta:frase:4,sintetico
+"OI, FAZ DIAS QUE A COLETA DOMICILIAR NÃO APAREEC ATRÁS DO MERCADO. URGENTE!",coleta,B,coleta:frase:0,sintetico
+um galho quebrou e ficou pendurado no fim da rua sem saída. urgente!,arvore,B,arvore:frase:1,sintetico
+alguem pode ajudar? a pintura da faixa sumiu e os carros nao param na altura do ponto de onibus. urgente!,sinalizacao,B,sinalizacao:frase:0,sintetico
+"oi, tampa do bueiro afundou e virou armadilha na viela do bairro. moradores estao revoltadso.",drenagem,B,drenagem:frase:2,sintetico
+boa tarde. o asfalto rachou e está soltando pedaços no fim da rua sem saída. aguardo retorno. meu cpf é 123.456.789-09.,buraco,B,buraco:frase:2,sintetico
+"socorro, o volume do som da casa noturna atravessa as paredes. urgente! contato: 11 91234-5678.",barulho,B,barulho:frase:1,sintetico
+"oi, precisa de limpeza das bocas de lobo antes das chuvas proximo a creche. urgente!",drenagem,B,drenagem:frase:3,sintetico
+venho informar que ratazanas circulando de dia perto do mercado atrás do mercado. ninguém faz nada. contato: 11 19234-5678.,pragas,B,pragas:frase:0,sintetico
+venho informar que a água volta pelo ralo da rua qunado chove no fim da rua sem saída. moradores estão revoltados.,drenagem,B,drenagem:frase:4,sintetico
+boa tarde. o sinal de pedestres não abre próximo à creche. ninguém faz nada.,sinalizacao,B,sinalizacao:frase:3,sintetico
+a copa da árvore cresceu demais e escurece a rua. aguardo retorno.,arvore,B,arvore:frase:2,sintetico
+automovel parado sem ninguem mexer desde o ano passado. rugente!,veiculo,B,veiculo:frase:2,sintetico
+"venho informar que pista destruida, impossivel passar de carro atras do mercado. ninguem faz nada.",buraco,B,buraco:frase:5,sintetico
+a agua volta pelo ralo da rua quadno chove atras do mercado. ninguem faz nada.,drenagem,B,drenagem:frase:4,sintetico
+"oi, o restaurante põe caixa de som na calçada na altura do ponto de ônibus. moradores estão revoltados.",barulho,B,barulho:frase:2,sintetico
+alguém pode ajudar? o horário da coleta mudou e ninguém avisou na altura do ponto de ônibus. moradores estão revoltados.,coleta,B,coleta:frase:1,sintetico
+"socorro, perturbação do sossego com som ligado a noite toda próximo à creche. moradores estão revlotados.",barulho,B,barulho:frase:4,sintetico
+perturbacao do sossego com som ligado a noite toda na altura do ponto de onibus. urgente!,barulho,B,barulho:frase:4,sintetico
+"OI, PLACA DE VEOLCIDADE ARRANCADA DA VIA PRÓXIMO À CRECHE.",sinalizacao,B,sinalizacao:frase:1,sintetico
+motoqueiro caiu por causa do buraco na via na viela do bairro. urgente!,buraco,B,buraco:frase:1,sintetico
+venho informar que montanha de movies quebrados e pneus jogados no fim da rua sem saida. aguardo retorno.,entulho,B,entulho:frase:3,sintetico
+"socorro, alagamento constante embaixo do viaduto próximo à creche. aguardo retorno.",drenagem,B,drenagem:frase:5,sintetico
+venho informar que o potse esta rachado na base atras do mercado.,calcada,B,calcada:frase:2,sintetico
+"oi, poluicao sonora vinda do estabeleciemnto comercial atras do mercado. aguardo retorno.",barulho,B,barulho:frase:0,sintetico
+boa tarde. a copa da árvore cresceu demais e escurece a rua no fim da rua sem saída. ninguém faz nada.,arvore,B,arvore:frase:2,sintetico
+"SOCORRO, PEDIDO DE LIMPEZA DA VIA PÚBLICA. URGENTE! CFP 987.654.321-00, AGUARDO.",varricao,B,varricao:frase:0,sintetico
+boa tarde. tampa do bueiro afundou e virou armadilha atrás do mercado. ninguém faz nada.,drenagem,B,drenagem:frase:2,sintetico
+a cacamba esta transbordando e ninguem recolhe na viela do bairro. urgente! contato: 11 91234-5678.,entulho,B,entulho:frase:4,sintetico
+"socorro, o caminhao de coleta passou direto sem parar no fim da rua sem saida. moradores estao revoltados.",coleta,B,coleta:frase:5,sintetico
+alguem pode ajudar? estabelecimento descumpre o horario e faz barulho na viela do bairro. moradores estao revoltados.,barulho,B,barulho:frase:5,sintetico
+venho informar que caramujo africano se espalhando no terreno atras do mercado.,pragas,B,pragas:frase:3,sintetico
+venho informar que alagamento constante embaixo do viaduto próximo à creche. ninguém faz nada. meu telefone é (11) 98765-4321.,drenagem,B,drenagem:frase:5,sintetico
+"oi, o asfalto rachuo e está soltando pedaços. urgente!",buraco,B,buraco:frase:2,sintetico
+alguém pode ajudar? mato alto atrai cobra e escorpião perto das casas próximo à creche. urgente!,capinacao,B,capinacao:frase:3,sintetico
+"OI, A COLETA RECOLHE SÓ UM LADO DA RUA NA VIELA DO BAIRRO. AGAURDO RETORNO.",coleta,B,coleta:frase:3,sintetico
+UM ÔNIBUS VELHO FOI LARGADO NO TERRENO DA RUA ATRÁS DO MERCADO. URGENTE!,veiculo,B,veiculo:frase:3,sintetico
+alguém pode ajudar? ratazanas circulando de dia perto do mercado na viela do bairor. ninguém faz nada.,pragas,B,pragas:frase:0,sintetico
+"socorro, motoqueiro caiu por causa do buraco na via próximo à creche. aguardo retorno.",buraco,B,buraco:frase:1,sintetico
+boa tard.e cruzamento perigoso precisa de um semáforo. moradores estão revoltados.,sinalizacao,B,sinalizacao:frase:2,sintetico
+boa tarde. cadeira de roads não passa pela calçada estreita no fim da rua sem saída.,calcada,B,calcada:frase:5,sintetico
+alguem pode ajudar? a copa da arvore cresceu demais e escurece a rua proximo a creche. aguardo retorno.,arvore,B,arvore:frase:2,sintetico
+precisa de corte da grama do parque na viela do bairro. urgente!,capinacao,B,capinacao:frase:4,sintetico
+"socorro, achei escorpiao dentro de casa de novo atras do mercado. ninguem faz nada.",pragas,B,pragas:frase:1,sintetico
+"socorro, ratazanas circulando de dia perto do mercado na altura do ponto de ônibus. moradores estão revoltados.",pragas,B,pragas:frase:0,sintetico
+"OI, SOLICITO PODA DA ÁRVORE EM FRENTE AO NÚMERO DAC ASA NA VIELA DO BAIRRO. NINGUÉM FAZ NADA.",arvore,B,arvore:frase:0,sintetico
+TAMPA DO BUEIRO AFUNDOU E VIROU ARMADILHA NO FIM DA RUA SEM SAIDA.,drenagem,B,drenagem:frase:2,sintetico
+"socorro, cabos arrebentados balançando na calçada. aguardo retorno.",calcada,B,calcada:frase:0,sintetico
+"oi, o meio-fio desmoronou depois da obra. moradores estão revoltados. me respondam no joana.silva@email.com.",calcada,B,calcada:frase:4,sintetico
+"socorro, cadeira de rodas não passa pela calçada estreita próximo à creche. urgente!",calcada,B,calcada:frase:5,sintetico
+"socorro, a água volta pelo ralo da rua quando chove na altura do ponto de ônibus.",drenagem,B,drenagem:frase:4,sintetico
+"oi, o caminhão de coleta passou direto sem parar atrás do mercado. aguardo retorno.",coleta,B,coleta:frase:5,sintetico
+precisa de limpeza das bocas de lobo antes das chuvas atrás do mercado. aguardo retorno. meu telefone é (11) 98765-4321.,drenagem,B,drenagem:frase:3,sintetico
+"socorro, solicito rocada da area publica proximo a creche. aguardo retorno.",capinacao,B,capinacao:frase:0,sintetico
+VENHO INFORMAR QUE CARRO DEPENADO SERVINDO DE ABRIGO PARA RATOS PRÓXIMO À CRECHE. URGENTE!,veiculo,B,veiculo:frase:1,sintetico
+"socorr,o ratazanas circulando de dia perto do mercado.",pragas,B,pragas:frase:0,sintetico
+"oi, um galho quebrou e ficou pendurado no fim da rua sem saida. ninguem faz nada.",arvore,B,arvore:frase:1,sintetico
+boa tarde. a copa da arvore cresceu demais e escurece a rua.,arvore,B,arvore:frase:2,sintetico
+alguém pode ajudar? não dá para andar no passeio de tanto buraco no fim da rua sem saída.,calcada,B,calcada:frase:3,sintetico
+"socorro, caminhonete batida esquecida na via atrás do mercado. moradores estão revoltados.",veiculo,B,veiculo:frase:5,sintetico
+"socorro, cadeira de rodas não passa pela calçada estreita na altura do ponto de ônibus. aguardo retorno. me respondam no joana.silva@email.com.",calcada,B,calcada:frase:5,sintetico
+"alguém pode ajudar? vegetação alta escondendo o ponto de ônibus atrás do mercado. CPF 9876.54.321-00, aguardo.",capinacao,B,capinacao:frase:1,sintetico
+a coleta recolhe só um lado da ru ana altura do ponto de ônibus. ninguém faz nada.,coleta,B,coleta:frase:3,sintetico
+"alguém pode ajudar? foco de dengue no imóvel abandonado ao lado na viela do bairro. aguardo retorno. CPF 987.654.321-00, aguardo.",pragas,B,pragas:frase:2,sintetico
+alguém pdoe ajudar? pedido de limpeza da via pública na altura do ponto de ônibus. urgente! me respondam no joana.silva@email.com.,varricao,B,varricao:frase:0,sintetico
+"oi, a água volta pelo ralo da rua quando chove atrás do mercado. urgent!e",drenagem,B,drenagem:frase:4,sintetico
+VENHO INFORMAR QUE O HORÁRIO DA COLETA MUDOU E NINGUÉM AVISOU NA ALTURA DO PONTO DE ÔNIBUS. AGUARDO RETORNO. ME RESPONDAM NO JOANA.SILVA@EMAIL.COM.,coleta,B,coleta:frase:1,sintetico
+alguém pode ajudar? lombada sem pintura e sem placa de aviso no fim da rua sem saída.,sinalizacao,B,sinalizacao:frase:4,sintetico
+alguém pode ajudar? estabelecimento descumpre o horário e faz barulhon a altura do ponto de ônibus. aguardo retorno.,barulho,B,barulho:frase:5,sintetico
+alguém pode ajudar? montanha de móveis quebrados e pneus jogados no fim da rua sem saída. moradores estão revoltados.,entulho,B,entulho:frase:3,sintetico
+"socorro, caramujo africano se espalhando no terreno. ninguém faz nada.",pragas,B,pragas:frase:3,sintetico
+"oi, motoqueiro caiu por causa do buraco na via atras do mercado. aguardo retorno.",buraco,B,buraco:frase:1,sintetico
+descarte irregular de material de construção na praça. urgente!,entulho,B,entulho:frase:0,sintetico
+boa tarde. o volume do som da casa noturna atravessa as paredes no fim da rua sem saída. moradores estão revoltados.,barulho,B,barulho:frase:1,sintetico
+"socorro, a pintura da faixa sumiu e os carros não param próximo à creche. moradores estão revoltados. meu telefone é (11) 98765-4321.",sinalizacao,B,sinalizacao:frase:0,sintetico
+VENHO INFORMAR QUE O POSTE ESTÁ RACHADO NA BASE ATRÁS DO MERCADO.,calcada,B,calcada:frase:2,sintetico
+ALGUÉM PODE AJUDAR? PRECISA DE LIMPEZA DAS BOCAS DE LOBO ANTES DAS CHUVAS PRÓXIMO À CRECHE. MORADORES ESTÃO REVOLTADOS.,drenagem,B,drenagem:frase:3,sintetico
+"oi, ratazanas circulando de dia perto do mercado próximo à creche.",pragas,B,pragas:frase:0,sintetico
+boa tarde. caminhao parou e despejou restos de demolicao proximo a creche. aguardo retorno.,entulho,B,entulho:frase:1,sintetico
+o sinal de peedstres nao abre. moradores estao revoltados.,sinalizacao,B,sinalizacao:frase:3,sintetico
+"oi, restos de feira apodrecendo na calçada próximo à creche. moradores estão revoltados.",varricao,B,varricao:frase:4,sintetico
+cabos arrebentados balançando na calçada na viela do bairro. aguardo retorno.,calcada,B,calcada:frase:0,sintetico
+"oi, achei escorpião dentro de casa de novo na altura do ponto de ônibu.s urgente!",pragas,B,pragas:frase:1,sintetico
+alguém pode ajudar? caminhonete batida esquecida na via na altura do ponto de ônibus.,veiculo,B,veiculo:frase:5,sintetico
+a copa da arvore cresceu deamis e escurece a rua atras do mercado. aguardo retorno.,arvore,B,arvore:frase:2,sintetico
+"SOCORRO, POLUIÇÃO SONORA VINDA DO ESTABELECIMENTO COMERCIAL NA VIELA DO BAIRRO.",barulho,B,barulho:frase:0,sintetico
+"socorro, vegetacao alta escondendo o ponto de onibus. aguardo retorno. meu cpf e 123.456.789-09.",capinacao,B,capinacao:frase:1,sintetico
+"socorro, o sinal de pedestres nao abre na altura do ponto de noibus. moradores estao revoltados.",sinalizacao,B,sinalizacao:frase:3,sintetico
+"oi, a escadaria publica esta cheia de sujeira na viela do bairro. ninguem faz nada. me respondam no joana.silva@email.com.",varricao,B,varricao:frase:2,sintetico
+"oi, a seta da mão de direção está errada próximo à creche .contato: 11 91234-5678.",sinalizacao,B,sinalizacao:frase:5,sintetico
+"oi, a caçamba está transbordando e ninguém recolhe no fim da rua sem saída. moradorese stão revoltados.",entulho,B,entulho:frase:4,sintetico
+"caminhao parou e despejou restos de demolicao atras do mercado. urgente! CPF 987.654.321-00, aguardo.",entulho,B,entulho:frase:1,sintetico
+um galho quebrou  eficou pendurado no fim da rua sem saída. moradores estão revoltados.,arvore,B,arvore:frase:1,sintetico
+"oi, a operacao tapa-buraco nunca passou aqui na altura do ponto de onibus. urgente!",buraco,B,buraco:frase:4,sintetico
+alguém pode ajudar? carro depenado servindo de abrigo para ratos na altura do ponto de ônibus. aguardo retorno.,veiculo,B,veiculo:frase:1,sintetico
+alguem pode ajudar? o sinal de pedestres nao abre atras do mercado. aguardo retorno.,sinalizacao,B,sinalizacao:frase:3,sintetico
+a pintura da faixa sumiu e os carros nao param no fim da rua sem saida.,sinalizacao,B,sinalizacao:frase:0,sintetico
+boa tarde. ratazanas circulando de dia perto do mercado. aguardo retorno.,pragas,B,pragas:frase:0,sintetico
+venho informar que a água volta pelo ralo da rua quando chove atrás do mercado.,drenagem,B,drenagem:frase:4,sintetico
+"oi, a copa da árvore cresceu demais e escurece a rua próximo à creche. CPF 987.654.321-00, aguardo.",arvore,B,arvore:frase:2,sintetico
+boa tarde. caramujo africano se espalhando no terreno. moradores estão revoltados.,pragas,B,pragas:frase:3,sintetico
+VENHO INFORMAR QUE ESTABELECIMENTO DESCUMPRE O HORARIO E FAZ BARULHO NA VIELA DO BAIRRO.,barulho,B,barulho:frase:5,sintetico
+"pista destruída, impossível passar de carro. moradores estão revoltados.",buraco,B,buraco:frase:5,sintetico
+"oi, pedido de limpeza da via publica atras do mercado. aguardo ertorno.",varricao,B,varricao:frase:0,sintetico
+alguém pode ajudar? solicito equipe de varrição para o quarteirão no fim da rua sem saída. moradores estão revoltados.,varricao,B,varricao:frase:3,sintetico
+o poste está rachado nab ase próximo à creche.,calcada,B,calcada:frase:2,sintetico
+"SOCORRO, SOLICITO PODA DA ÁRVORE EM FRENTE AO NÚMERO DA CASA NA ALTURA DO PONTO DE ÔNIBUS. MORADORES ESTÃO REVOLTADOS.",arvore,B,arvore:frase:0,sintetico
+boa tarde. solicito equipe de varrição para o quarteirão na viela do bairro. ninguém faz nada.,varricao,B,varricao:frase:3,sintetico
+venho informar que a coleta recolhe só u mlado da rua próximo à creche. urgente!,coleta,B,coleta:frase:3,sintetico
+ALGUEM PODE AJUDAR? A ACADEMIA LIGA MUSICA ALTA MUITO CEDO NO FIM DA RUA SEM SAIDA. AGUARDO RETORNO.,barulho,B,barulho:frase:3,sintetico
+ALGUEM PODE AJUDAR?C AMINHAO PAROU E DESPEJOU RESTOS DE DEMOLICAO. URGENTE!,entulho,B,entulho:frase:1,sintetico
+"OI, A ESCADARIA PÚBLICA ESTÁ CHEIA DE SUJEIRA. AGUARDO RETORNO.",varricao,B,varricao:frase:2,sintetico
+"OI, MORCEGOS ENTRANDO NAS CASAS DA VILA PRÓXIMO À CRECHE.",pragas,B,pragas:frase:4,sintetico
+alguém pode ajudar? pedido de remoção de árvore morta na viela do bairro. aguardo retorno.,arvore,B,arvore:frase:5,sintetico
+a agua volta pelo ralo da rua quando chove na viela do bairro. moradores estao revoltados.,drenagem,B,drenagem:frase:4,sintetico
+TAMPA DO BUEIRO AFUNDOU E VIROU ARMADILHA PRÓXIMO À CRECHE. MORADORES ESTÃO REVOLTADOS.,drenagem,B,drenagem:frase:2,sintetico
+"socorro, o caminhão de coleta passou direto sem parar na viela dob airro. urgente! contato: 11 91234-5678.",coleta,B,coleta:frase:5,sintetico
+ALGUÉM PODE AJUDAR? O MEIO-FIO DESMORONOU DEPOIS DA OBRA NO FIM DA RUA SEM SAÍDA. AGUARDO RETORNO.,calcada,B,calcada:frase:4,sintetico
+"OI, O HORÁRIO DA COLETA MUDOU E NINGUÉM AVISOU NA ALTURA DO PONTO DE ÔNIBUS.",coleta,B,coleta:frase:1,sintetico
+"OI, O MEIO-FIO DESMORONOU DEPOIS DA OBRA NO FIM DA RUA SEM SAÍDA. MORADORES ESTÃO REVOLTADOS.",calcada,B,calcada:frase:4,sintetico
+boa tarde. descarte irregular de material de construcao na praca na altura do ponto de onibus.,entulho,B,entulho:frase:0,sintetico
+alguém pode ajudar? um ônibus velho foi largado no terreno da rua próximo à rceche. ninguém faz nada. meu cpf é 123.456.789-09.,veiculo,B,veiculo:frase:3,sintetico
+"oi, ficou lama e terra na rua depois da obra no fim da rua sem saída. aguardo retorno.",varricao,B,varricao:frase:1,sintetico
+boa tarde. precisa de corte da grama do parque. urgente!,capinacao,B,capinacao:frase:4,sintetico
+boa tarde. precisa de dedetização na praça por causa dos ratos atrás do mercado. ninguém faz nada.,pragas,B,pragas:frase:5,sintetico
+"BOA TARDE. PLACA DE VELOCIDADE ARRANCADA DA VIA. AGUARDO RETORNO. CPF 987.654.321-00, AGUARDO.",sinalizacao,B,sinalizacao:frase:1,sintetico
+"oi, o restaurante põe caixa de som na calçada.",barulho,B,barulho:frase:2,sintetico
+"venho informar que o caminhão de coleta passou direto sem parar atrás do mercado. aguardo retorno. CPF 987.654.321-00, aguardo.",coleta,B,coleta:frase:5,sintetico
+ALGUÉM PODE AJUDAR? O BARRANCO ESTÁ COBERTO DE MATO PRÓXIMO À CRECHE.,capinacao,B,capinacao:frase:2,sintetico
+venho informar que atmpa do bueiro afundou e virou armadilha na altura do ponto de ônibus. ninguém faz nada.,drenagem,B,drenagem:frase:2,sintetico
+alguem pode ajudar? o caminhao de coleta passou direto sem parar na altura do ponto de onibus. innguem faz nada. meu telefone e (11) 98765-4321.,coleta,B,coleta:frase:5,sintetico
+"oi, estabelecimento descumpre o horário e faz barulho no fim da rua sem saída. ninguém faz nada.",barulho,B,barulho:frase:5,sintetico
+"socorro, o caminhão de coleta passou direto sem parar no fim da rua sem saída.",coleta,B,coleta:frase:5,sintetico
+VENHO INFORMAR QUE CAMINHAO PAROU E DESPEJOU RESTOS DE DEMOLICAO PROXIMO A CRECHE. MORADORES ESTAO REVOLTADOS.,entulho,B,entulho:frase:1,sintetico
+"oi, a sarjeta fica empoçada dais depois da chuva próximo à creche. aguardo retorno.",drenagem,B,drenagem:frase:0,sintetico
+alguém pode ajudar? jogam restos de obra toda noite no mesmo lugar n aaltura do ponto de ônibus.,entulho,B,entulho:frase:5,sintetico
+"pista destruída, impossível passar de carro na altura do ponto de ônibus. moradores estão revoltados.",buraco,B,buraco:frase:5,sintetico
+boa tarde. cadeira de rodas nao passa pela calcada estreita no fim da rua sem saida.,calcada,B,calcada:frase:5,sintetico
+VENHO INFORMAR QUE A PINTURA DA FAIXA SUMIU E OS CARROS NÃO PARAM NA VIELA DO BAIRRO. URGENTE! MEU TELEFONE É (11) 98765-4321.,sinalizacao,B,sinalizacao:frase:0,sintetico
+alguém pode ajudar? alagamento constante embaixo do viaduto no fim da rua sem saída. urgente!,drenagem,B,drenagem:frase:5,sintetico
+boa tarde. vegetação alta escondendo o ponto de ônibus na altura do ponto de ônibus. ninguém faz nada.,capinacao,B,capinacao:frase:1,sintetico
+venho informar que o córrego transbordou e entrou nas casas atrás do mercado. meu telefone é (11) 98765-4321.,drenagem,B,drenagem:frase:1,sintetico
+venho informar que emaranhado de fios baixos quase encostando nos carros na altura do ponto de onibus. ninguem faz nada.,calcada,B,calcada:frase:1,sintetico
+boa tarde. pedido de limpeza da via publica atras do mercado. urgenet!,varricao,B,varricao:frase:0,sintetico
+achei escorpiao dentro de casa de novo proximo a creche. ningume faz nada.,pragas,B,pragas:frase:1,sintetico
+venho informar que o córrego transbordou e entrou nas casas. urgente!,drenagem,B,drenagem:frase:1,sintetico
+poluicao sonora vinda do estabelecimento comercial atras do mercado. urgente!,barulho,B,barulho:frase:0,sintetico
+"socorro, a sarjeta fica empoçada dias depois da chuva atrás do mercado.",drenagem,B,drenagem:frase:0,sintetico
+"OI, FICOU LAMA E TERRA NA RUA DEPOIS DA OBRA ATRÁS DO MERCADO. MORADORES ESTÃO REVOLTADOS.",varricao,B,varricao:frase:1,sintetico
+"socorro, ficou lama e trera na rua depois da obra próximo à creche.",varricao,B,varricao:frase:1,sintetico
+boa tarde. formou um afundamento grande no pavimento atrás do mercado. ninguém faz nada.,buraco,B,buraco:frase:0,sintetico
+"OI, RESTOS DE FEIRA APODRECENDO NA CALCADA. MORADORES ESTAO REVOLTADOS.",varricao,B,varricao:frase:4,sintetico
+a escadaria pública está cheia de sujeira. moradores estão revoltados.,varricao,B,varricao:frase:2,sintetico
+venho informar que nao da para andar no passeio de tanto buraco. ninguem faz nada.,calcada,B,calcada:frase:3,sintetico
+alguém pode ajudar? solicito poda da árvore em frente ao número da casa na altura do ponto de ônibus. ninguém faz nada.,arvore,B,arvore:frase:0,sintetico
+o asfalto rachou  eestá soltando pedaços na viela do bairro.,buraco,B,buraco:frase:2,sintetico
+"venho informar que carro coberto de poeira e folhas, claramente abandonado atrás do mercado. urgente!",veiculo,B,veiculo:frase:4,sintetico
+venho informar que foco de dengue no imóvel abandonado ao lado.,pragas,B,pragas:frase:2,sintetico
+"oi, precisa de limpeza das bocas de lobo antes das chuvas no fim da rua sem saida.",drenagem,B,drenagem:frase:3,sintetico
+venho informar que a operação tapa-buraco nunca passou aqui na viela do bairro. aguardo retorno. meu telefone é (11) 98765-4321.,buraco,B,buraco:frase:4,sintetico
+precisa de dedetização na praça por causa dos ratos na viela do bairro. aguardo retorno.,pragas,B,pragas:frase:5,sintetico
+precisa de limpeza das bocas de lobo antes das chuvas na viela do bairro. aguardo retorno.,drenagem,B,drenagem:frase:3,sintetico
+boa tarde. solicito poda da árvore em frente ao número da casa. aguardo retorno.,arvore,B,arvore:frase:0,sintetico
+"oi, automovel parado sem ninguem mexer desde o ano passado no fim da rua sem saida. moradores estao revoltados. contato: 11 91234-5678.",veiculo,B,veiculo:frase:2,sintetico
+venho informar que o barranco esta coberto de mato. aguardo retorno.,capinacao,B,capinacao:frase:2,sintetico
+ficou lama e terra na rua depois da obra na viela do bairro. urgente!,varricao,B,varricao:frase:1,sintetico
+BOA TARDE. A ACADEMIA LIGA MUSICA ALTA MUITO CEDO NA ALTURA DO PONTO DE ONIBUS. AGUARDO RETORNO. MEU CPF E 123.456.789-09.,barulho,B,barulho:frase:3,sintetico
+boa tarde. motoqueiro caiu por causa do buraco na via no fim da rua sem saída. urgente!,buraco,B,buraco:frase:1,sintetico
+"socorro, achei escorpiao dentro de casa de novo na viela do bairro. moradores estao revoltados.",pragas,B,pragas:frase:1,sintetico
+"socorro, precisa de corte da grama do parque proximo a creche. ninguem faz nada.",capinacao,B,capinacao:frase:4,sintetico
+"socorro, mato alto atrai cobra e escorpiao perto das casas atras do mercado.",capinacao,B,capinacao:frase:3,sintetico
+ache iescorpiao dentro de casa de novo atras do mercado. urgente!,pragas,B,pragas:frase:1,sintetico
+"oi, ratazanas circulando de dia perto do mercado atrás do mercado.",pragas,B,pragas:frase:0,sintetico
+venho informar que lixo residencial acumulado atraindo bichos próximo à creche. urgente!,coleta,B,coleta:frase:4,sintetico
+cabos arreebntados balançando na calçada. ninguém faz nada.,calcada,B,calcada:frase:0,sintetico
+mato alto atrai cobra e escorpaio perto das casas atras do mercado. moradores estao revoltados.,capinacao,B,capinacao:frase:3,sintetico
+"oi, carro coberto de poeira e folhas, claramente abandonado na altura do ponto de onibus. ninguem faz nada. CPF 987.654.321-00, aguardo.",veiculo,B,veiculo:frase:4,sintetico
+alguem pode ajduar? veiculo enferrujado ocupando a vaga ha mto tempo na viela do bairro. urgente!,veiculo,B,veiculo:frase:0,sintetico
+alguém pode ajudar? o poste está rachado na base no fim da rua sem saída. meu telefone é (11) 98765-4321.,calcada,B,calcada:frase:2,sintetico
+"oi, a copa da arvore cresceu demais e escurece a rua proximo a creche. aguardo retorno.",arvore,B,arvore:frase:2,sintetico
+alguem pode ajudar? faz dias que a coleta domiciliar nao aparece. aguardo retorno.,coleta,B,coleta:frase:0,sintetico
+"socorro, a sarjeta fica empocada dias depois da chuva na altura do ponto de onibus. aguardo retorno.",drenagem,B,drenagem:frase:0,sintetico
+o sinal de pedestres não abre na viela do bairro. ninguém faz anda.,sinalizacao,B,sinalizacao:frase:3,sintetico
+boa tarde. placa de velocidade arrancada da via no fim da rua sem saída. urgente!,sinalizacao,B,sinalizacao:frase:1,sintetico
+alguem pode ajudar? o horario da coleta mudou e ninguem avisou na viela do bairro. aguardo retorno.,coleta,B,coleta:frase:1,sintetico
+"SOCORRO, A ACADEMIA LIGA MÚSICA ALTA MTO CEDO NA ALTURA DO PONTO DE ÔNIBUS. URGENTE!",barulho,B,barulho:frase:3,sintetico
+tem uma vala no meio da rua que ninguem tapa proximo a creche. moradores estao revoltados.,buraco,B,buraco:frase:3,sintetico
+jogam restos de obra toda noite no mesmo lugar atrás do mercado. ninguém faz nada.,entulho,B,entulho:frase:5,sintetico
+"socorro, mato alto atrai cobra e escorpião perto das casas na altura do ponto de ônibus. aguardo ertorno.",capinacao,B,capinacao:frase:3,sintetico
+boa tarde. automóvel parado sem ninguém mexer desde o ano passado no fim da rua sem saída. aguardo retorno.,veiculo,B,veiculo:frase:2,sintetico
+"oi, árvore tombou sobre um carro estacionado atrás do mercado. urgente!",arvore,B,arvore:frase:3,sintetico
+boa tarde. carro depenado servindo de abrigo para ratos atrás do mercado. ninguém faz nada.,veiculo,B,veiculo:frase:1,sintetico
+venho informar que estabelecimento descumpre o horário e faz barulho no fim da rua sem saída. moradores estão revoltados.,barulho,B,barulho:frase:5,sintetico
+"oi, vegetação alta escondendo o ponto de ônibus no fim da rua sem saída.",capinacao,B,capinacao:frase:1,sintetico
+ratazanas circulando de dia perto do mercado no fim da rua sem saida. aguardo retorno.,pragas,B,pragas:frase:0,sintetico
+"socorro, achei escorpião dentro de casa de novo próximo à creche. urgente! meu cpf é 123.456.789-09.",pragas,B,pragas:frase:1,sintetico
+"oi, emaranhado de fios baixos quase encostando nos carros atrsa do mercado. moradores estao revoltados.",calcada,B,calcada:frase:1,sintetico
+"socorro, a copa da árvore cresceu demais e escurece a rua no fim da rua sem saída.",arvore,B,arvore:frase:2,sintetico
+veiculo enferrujado ocupando a vaga ha muito tempo no fim da rua sem saida. urgente!,veiculo,B,veiculo:frase:0,sintetico
+alguém pode ajudar? a sarjeta fica empoçada dias depois da chuva no fim da rua sem saída. urgente!,drenagem,B,drenagem:frase:0,sintetico
+mato alto atrai cobra e escorpiao perto das casas atras do mercado. urgente!,capinacao,B,capinacao:frase:3,sintetico
+VENHO INFORMAR QUE JOGAM RESTOS DE OBRA TOD ANOITE NO MESMO LUGAR PRÓXIMO À CRECHE. AGUARDO RETORNO.,entulho,B,entulho:frase:5,sintetico
+alguém pode ajudar? lixo residencial acumulado atraindo bichos. urgente!,coleta,B,coleta:frase:4,sintetico
+venho informar que a pintura da faixa sumiu e os carros nao param. urgente!,sinalizacao,B,sinalizacao:frase:0,sintetico
+"socorro, automovel parado sem ninguem mexer desde o ano passado na viela do bairro.",veiculo,B,veiculo:frase:2,sintetico
+VENHO INFORMAR QUE MOTOQUEIRO CAIU POR CAUSA DO BURACO NA VIA NA VIELA DO BAIRRO. NINGUÉM FAZ NADA.,buraco,B,buraco:frase:1,sintetico
+boa tarde. mato alto atrai cobra e escorpião perto das casas próximo à creche.,capinacao,B,capinacao:frase:3,sintetico
+alguém pode ajudar? tem uma vala no meio da rua que ninguém tapa atrás do mercado. ninguém faz nada.,buraco,B,buraco:frase:3,sintetico
+O ASFALTO RACHOU E ESTÁ SOLTANDO PEDAÇOS NA VIELA DO BAIRRO. MEU CPF É 123.456.789-09.,buraco,B,buraco:frase:2,sintetico
+solicito poda da arvore em frente ao numero da casa proximo a creche. moradores estao revoltados.,arvore,B,arvore:frase:0,sintetico
+alguém pode ajudar? ficou lama e terra na rua depois da obra próximo à creche.,varricao,B,varricao:frase:1,sintetico
+boa tarde. o poste está rachado na base na altuar do ponto de ônibus. aguardo retorno.,calcada,B,calcada:frase:2,sintetico
+"oi, a copad a árvore cresceu demais e escurece a rua no fim da rua sem saída. ninguém faz nada. meu cpf é 123.456.789-09.",arvore,B,arvore:frase:2,sintetico
+venho informar que um galho quebrou e ficou pendurado proximo a creche. urgente!,arvore,B,arvore:frase:1,sintetico
+"pista destruída, impossível passar de carro no fim da rua sem saída. aguardo retorno.",buraco,B,buraco:frase:5,sintetico
+boa tarde. lixo residencial acumulado atraindo bichos na altura do ponto de onibus. ninguem faz nada.,coleta,B,coleta:frase:4,sintetico
+boa tarde. papel e garrafa espalhados pela praça toda na viela do bairro. moradores estão revoltados.,varricao,B,varricao:frase:5,sintetico
+"SOCORRO, CAMINHONETE BATIDA ESQUECIDA NA VIA NO FIM DA RUA SEM SAIDA. URGENTE!",veiculo,B,veiculo:frase:5,sintetico
+alagamento constante embaixo do viaduto atrás do mercado.,drenagem,B,drenagem:frase:5,sintetico
+o horário da coleta mudou e ninguém avisou no fim da rua sem saída. ninguém faz nada.,coleta,B,coleta:frase:1,sintetico
+"socorro, erva daninha cobrindo a passagem de pedestres atrás do mercado.",capinacao,B,capinacao:frase:5,sintetico
+BOA TARDE. A PINTURA DA FAIXA SUMIU E OS CARROS NÃO PARAM NO FIM DA RUA SEM SAÍDA.,sinalizacao,B,sinalizacao:frase:0,sintetico
+montanha de móveis quebrados e pneus jogados no fim da rua sem saída. moradores estão revoltados.,entulho,B,entulho:frase:3,sintetico
+ALGUEM PODE AJUDAR? JOGAM RESTOS DE OBRA TODA NOITE NO MESMO LUGAR. AGUARDO RETORNO.,entulho,B,entulho:frase:5,sintetico
+VENHO INFORMAR QUE CARRO DEPENADO SERVINDO DE ABRIGO PARA RATOS NO FIM DA RUA SEM SAÍDA. URGENTE!,veiculo,B,veiculo:frase:1,sintetico
+caramujo africano se espalhando no terreno próximo à creche. ninguém faz nada.,pragas,B,pragas:frase:3,sintetico
+alguém pode ajudar? a operação atpa-buraco nunca passou aqui na altura do ponto de ônibus. ninguém faz nada.,buraco,B,buraco:frase:4,sintetico
+ALGUÉM PODE AJUDAR? AUTOMÓVEL PARADO SEM NINGUÉM MEXER DESDE O ANO PASSADO NA VIELA DO BAIRRO. URGENTE! MEU TELEFONE É (11) 98765-4321.,veiculo,B,veiculo:frase:2,sintetico
+"socorro, um ônibus velho foi largado no terreno da rua no fim da rua sem saída.",veiculo,B,veiculo:frase:3,sintetico
+"oi, o horario da coleta mudou e ninguem avisou na viela do bairro.",coleta,B,coleta:frase:1,sintetico
+"oi, o volume do som ad casa noturna atravessa as paredes na viela do bairro.",barulho,B,barulho:frase:1,sintetico
+"socorro, poluicao sonora vinda do estabelecimento comercial na altura do ponto de onibus. CPF 987.654.321-00, aguardo.",barulho,B,barulho:frase:0,sintetico
+veículo enferrujado ocupando a vaga há mto tempo próximo à creche. ninguém faz nada.,veiculo,B,veiculo:frase:0,sintetico
+venho informar que o barranco está coberto de mato na viela do bairro. urgente!,capinacao,B,capinacao:frase:2,sintetico
+BOA TARDE. O VOLUME DO SOM DA CASA NOTURNA ATRAVESSA AS PAREDES PRÓXIMO À CRECHE. NINGUÉM FAZ NADA.,barulho,B,barulho:frase:1,sintetico
+"alguém pode ajudar? pedido de remoção de árvore morta no fim da rua sem saída. aguardo retorno. CPF 987.654.321-00, aguardo.",arvore,B,arvore:frase:5,sintetico
+boa tarde. caramujo africano se espalhando no terreno. aguardo retorno.,pragas,B,pragas:frase:3,sintetico
+alguem pode ajudar? carro depenado servindo de abrigo para ratos na altura do ponto de onibus. aguardo retorno.,veiculo,B,veiculo:frase:1,sintetico
+venho informar que solicito equipe de varrição para o quarteirão na altura do ponto de nôibus. urgente!,varricao,B,varricao:frase:3,sintetico
+alagamento constante embaixo do viaduto próximo à creche.,drenagem,B,drenagem:frase:5,sintetico
+venho informar que placa de velocidade arrancada da via na altura do ponto de onibus.,sinalizacao,B,sinalizacao:frase:1,sintetico
+"venho informar que carro coberto de poeira e folhas, claramente abandonado no fim da rua sem saída. ninguém faz nada.",veiculo,B,veiculo:frase:4,sintetico
+boa tarde. solicito rocada da area publica na viela do bairro.,capinacao,B,capinacao:frase:0,sintetico
+BOA TARDE. UM AGLHO QUEBROU E FICOU PENDURADO. URGENTE!,arvore,B,arvore:frase:1,sintetico
+venho informar que acumulou entulho de reforma bloqueando a passagem. aguardo retorno.,entulho,B,entulho:frase:2,sintetico
+O BARRANCO ESTA COBERTO DE MATO. MORADORES ESTAO REVOLTADOS.,capinacao,B,capinacao:frase:2,sintetico
+pedido de limpeza da via pública no fim da rua sem saída. aguardo retorno.,varricao,B,varricao:frase:0,sintetico
+alguém pode ajudar? estabelecimento descumpre o horário e faz barulho na viela do bairro. moradores estão revoltados. me respondam no joana.silva@email.com.,barulho,B,barulho:frase:5,sintetico
+boa tarde. o barranco esta coberto de mato na altura do ponto de onibus. aguardo retorno.,capinacao,B,capinacao:frase:2,sintetico
+"socorro, motoqueiro caiu por causa do buraco na via. aguardo retorno.",buraco,B,buraco:frase:1,sintetico
+o caminhão de coleta passou direto sem parar próximo à creche. ninguém faz nada.,coleta,B,coleta:frase:5,sintetico
+"socorro, pista destruída, impossível passar de carro atrás do mercado.",buraco,B,buraco:frase:5,sintetico
+BOA TARDE. POLUIÇÃO SONORA VINDA DO ESTABELECIMENTO COMERCIAL NO FIM DA RUA SEM SAÍDA. NINGUÉM FAZ NADA.,barulho,B,barulho:frase:0,sintetico
+alguem pode ajudar? caramujo africano se espalhando no terreno atras do mercado.m oradores estao revoltados. meu cpf e 123.456.789-09.,pragas,B,pragas:frase:3,sintetico
+a coleta recolhe só um lado da rua na altura do ponto de ônibus. ninguém faz nada.,coleta,B,coleta:frase:3,sintetico
+o restaurante poe caixa de som na calcada na altura do ponto de onibus. moradores estao revoltados.,barulho,B,barulho:frase:2,sintetico
+agluém pode ajudar? precisa de dedetização na praça por causa dos ratos na viela do bairro. ninguém faz nada.,pragas,B,pragas:frase:5,sintetico
+boa tarde. o caminhão de coleta passou direto sem parar próximo à creche. urgente!,coleta,B,coleta:frase:5,sintetico
+"boa tarde. pista destruída, impossível passar de carro atrás do mercado. urgente!",buraco,B,buraco:frase:5,sintetico
+BOA TARDE. MONTANHA DE MÓVEIS QUEBRADOS E PNEUS JOGADOS NA VIELA DO BAIRRO. URGENTE!,entulho,B,entulho:frase:3,sintetico
+alguémp ode ajudar? faz dias que a coleta domiciliar não aparece atrás do mercado. ninguém faz nada.,coleta,B,coleta:frase:0,sintetico
+"OI, FAZ DIAS QUE A COLETA DOMICILIAR NÃO APARECE NO FIM DA RUA SEM SAÍDA. NINGUÉM FAZ NADA.",coleta,B,coleta:frase:0,sintetico
+alguém pode ajudar? precisa de dedetização na praça por causa dos ratos na viela do bairro.,pragas,B,pragas:frase:5,sintetico
+boa tarde. cabos arrebentados balançando na calçada próximo à creche. moradores estão revoltados.,calcada,B,calcada:frase:0,sintetico
+ALGUÉM PODE AJUDAR? A ÁGUA VOLTA PELO RALO DA RUA QUANDO CHOVE NA ALTURA DO PONTO DE ÔNIBUS. NINGUÉM FAZ NADA.,drenagem,B,drenagem:frase:4,sintetico
+"oi, cadeira de rodas não passa pela calçada estreita no fim da rua sem saída. ninugém faz nada.",calcada,B,calcada:frase:5,sintetico
+venho informar que a pintura da faixa sumiu e os carros não param atrás do mercado.,sinalizacao,B,sinalizacao:frase:0,sintetico
+venho informar que montanha de moveis quebrados e pneus jogados. urgente!,entulho,B,entulho:frase:3,sintetico
+boa tarde. estabelecimento descumpre o horário e faz barulho na viela do bairro.,barulho,B,barulho:frase:5,sintetico
+boa tarde. placa de velocidade arrancada da via. urgente!,sinalizacao,B,sinalizacao:frase:1,sintetico
+foco de dengue no imóvel abandonado ao lado próximo à creche. aguardo retorno.,pragas,B,pragas:frase:2,sintetico
+venho informar que tem uma vala no meio da rua que ninguem tapa atras do mercado.,buraco,B,buraco:frase:3,sintetico
+"socorro, não dá para andar no passeio de tanto buraco atrás do mercado. urgente!",calcada,B,calcada:frase:3,sintetico
+boa tarde. mato alto atrai cobra e escorpião perto das casas na altura do ponto de ônibus. ninguém faz nada.,capinacao,B,capinacao:frase:3,sintetico
+"alguém pode ajudar? o asfalto rachou e está soltando pedaços no fim da rua sem saída. aguardo retorno. CPF 987.654.321-00, aguardo.",buraco,B,buraco:frase:2,sintetico
+boa tarde. não dá para andar no passeio de tanto buraco próximo à creche. ninguém faz nada. meu telefone é (11) 98765-4321.,calcada,B,calcada:frase:3,sintetico
+"oi, a operação tapa-buraco nunca passou aqui próximo à creche. urgente! CPF 987.654.321-00, aguardo.",buraco,B,buraco:frase:4,sintetico
+alguém pode ajudar? veículo enferrujado ocupando a vaga há mto tempo no fim da rua sem saída. ninguém faz nada.,veiculo,B,veiculo:frase:0,sintetico
+boa tarde. motoqueiro caiu por causa do buraco na via na altura do ponto de ônibus. moradores estão revoltados.,buraco,B,buraco:frase:1,sintetico
+"oi, solicito poda da árvore em frente ao número da casa na viela do bairro. urgente!",arvore,B,arvore:frase:0,sintetico
+venho informar que cruzamento perigoso precisa de um semaforo na viela do bairro. aguardo retorno.,sinalizacao,B,sinalizacao:frase:2,sintetico
+"oi, o restaurante põe caixa de som na calçada próximo à creche. ninguém faz nada.",barulho,B,barulho:frase:2,sintetico
+mato alto atrai cobra e escoripão perto das casas na viela do bairro. aguardo retorno.,capinacao,B,capinacao:frase:3,sintetico
+venho informar que tem uma vala no meio da rua que ninguem tapa proximo a creche. moradores estao revoltados.,buraco,B,buraco:frase:3,sintetico
+"socorro, a pintura da faixa sumiu e os carros não param no fim da rua sem saída. ninguém faz nada.",sinalizacao,B,sinalizacao:frase:0,sintetico
+boa tarde. a coleta recolhe só um lado da rua na altura do ponto de ônibus.,coleta,B,coleta:frase:3,sintetico
+alguém pode ajudar? a sarjeta fica empoçada dias depois da chuva. urgente!,drenagem,B,drenagem:frase:0,sintetico
+alguem pode ajudar? estabelecimento descumpre o horario e faz barulho na viela do bairro. ninguem faz nada.,barulho,B,barulho:frase:5,sintetico
+VENHO INFORMAR QUE SOLICITO PODA DA ÁRVORE EM FRENTE AO NÚMERO DA CASA ON FIM DA RUA SEM SAÍDA. URGENTE!,arvore,B,arvore:frase:0,sintetico
+alguem pode ajudar? a operaca otapa-buraco nunca passou aqui na altura do ponto de onibus.,buraco,B,buraco:frase:4,sintetico
+venho informar que tampa do bueiro afundou e virou armadilha atrás do mercado.,drenagem,B,drenagem:frase:2,sintetico
+alguém pode ajudar? o meio-fio desmoronou depois da obar na altura do ponto de ônibus.,calcada,B,calcada:frase:4,sintetico
+venho informar que erva daninha cobrindo a passagem de pedestres. aguardo retorno.,capinacao,B,capinacao:frase:5,sintetico
+alguem pode ajudar? cabos arrebentados balancando na calcada na altura do ponto de onibus. ninguem faz nada.,calcada,B,calcada:frase:0,sintetico
+alguém pode ajudar? cachorros rasgando os sacos porque o lixo não foi recolhido na viela do bairro. moradores estão revoltados.,coleta,B,coleta:frase:2,sintetico
+boa tarde. a sarjeta fica empoçada dias depois da chuva atrás do mercado. moradores estão revoltados.,drenagem,B,drenagem:frase:0,sintetico
+venho informar que foco de dengue no imóvel abandonado ao lado próximo à creche. aguardo retorno.,pragas,B,pragas:frase:2,sintetico
+boa tarde. o caminhão de coleta passou direto sem parar no fim da rua sem saída. urgente!,coleta,B,coleta:frase:5,sintetico
+venho informar que emaranhado de fios baixso quase encostando nos carros. ninguém faz nada.,calcada,B,calcada:frase:1,sintetico
+alguém pode ajudar? um galho quebrou e ficou pendurado no fim da rua sem saída. aguardo retorno.,arvore,B,arvore:frase:1,sintetico
+"socorro, ipsta destruída, impossível passar de carro.",buraco,B,buraco:frase:5,sintetico
+boa tarde. estabelecimento descumpre o horario e fa zbarulho na viela do bairro. ninguem faz nada. meu cpf e 123.456.789-09.,barulho,B,barulho:frase:5,sintetico
+"oi, veículo enferrujado ocupando a vaga há mto tempo. moradores estão revoltados.",veiculo,B,veiculo:frase:0,sintetico
+"socorro, a sarjeta fica empoçada dias depois da chuva. moradores estão revoltados.",drenagem,B,drenagem:frase:0,sintetico
+bao tarde. a copa da árvore cresceu demais e escurece a rua na viela do bairro. moradores estão revoltados.,arvore,B,arvore:frase:2,sintetico
+"BOA TARDE. PISTA DESTRUIDA, IMPOSSIVEL PASSAR DE CARRO NA ALTURA DO PONTO DE ONIBUS. URGENTE!",buraco,B,buraco:frase:5,sintetico
+venho informar que motoqueiro caiu por causa do buraco na via proximo a creche.,buraco,B,buraco:frase:1,sintetico
+alguém pode ajudar? o volume do som da casa noturna atravessa as paredes atrás do mercado. urgente!,barulho,B,barulho:frase:1,sintetico
+alguem pode ajudar? a pintura da faixa sumiu e os carros nao param no fim da rua sem saida. moradores estao revoltados.,sinalizacao,B,sinalizacao:frase:0,sintetico
+alguem pode ajudar? a sarjeta fica empocada dias depois da chuva na altura do ponto de onibus. moradores estao revoltados.,drenagem,B,drenagem:frase:0,sintetico
+"alguém pode ajudar? carro coberto de poeira e folhas, claramente abandonado no fim da rua sem saída.",veiculo,B,veiculo:frase:4,sintetico
+venho informar que a escadaria publica esta cheia de sujeira proximo a creche. ninguem faz nada.,varricao,B,varricao:frase:2,sintetico
+"oi, motoqueiro caiu por causa do buraco na via atrás do mercado. ninguém faz nada.",buraco,B,buraco:frase:1,sintetico
+SOLICITO EQUIPE DE VARRIÇOÃ PARA O QUARTEIRÃO NA VIELA DO BAIRRO. NINGUÉM FAZ NADA.,varricao,B,varricao:frase:3,sintetico
+"SOCORRO, SOLICITO EQUIPE DE VARRIÇÃO PARA O QUARTEIRÃO. AGUARDO RETORNO.",varricao,B,varricao:frase:3,sintetico
+boa tarde. solicito equipe de varricao para o quarteirao n aviela do bairro. moradores estao revoltados.,varricao,B,varricao:frase:3,sintetico
+alguem pode ajudar? emaranhado de fios baixos quase encostando nos carros proximo a creche. urgente!,calcada,B,calcada:frase:1,sintetico
+boa tarde. descarte irregular de material de construcao na praca no fim da rua sem saida. ninguem faz nada.,entulho,B,entulho:frase:0,sintetico
+venho informar que um ônibus velho foi largado no terreno da rua. urgente! contato: 11 91234-5678.,veiculo,B,veiculo:frase:3,sintetico
+"SOCORRO, MATO ALTO ATRAI COBRA E ESCORPIAO PERTO DAS CASAS NO FIM DA RUA SEM SAID.A MORADORES ESTAO REVOLTADOS.",capinacao,B,capinacao:frase:3,sintetico
+venho informar quep oluição sonora vinda do estabelecimento comercial atrás do mercado. aguardo retorno.,barulho,B,barulho:frase:0,sintetico
+a caçamba está transbordando e ninguém recolhe atrás do mercado. moradores estão revoltados.,entulho,B,entulho:frase:4,sintetico
+"SOCORRO, MONTANHA DE MÓVEIS QUEBRADOS E PNEUS JOGADOS NA ALTURA DO PONTO DE ÔNIBUS. AGUARDO RETORNO. CPF 987.654.321-00, AGUARDO.",entulho,B,entulho:frase:3,sintetico
+BOA TARDE. MONTANHA DE MOVEIS QUEBRADOS E PNEUS JOGADOS PROIXMO A CRECHE.,entulho,B,entulho:frase:3,sintetico
+alguém pode ajudar? cruzamento perigoso precisa deu m semáforo. moradores estão revoltados.,sinalizacao,B,sinalizacao:frase:2,sintetico
+"oi, caminhao parou e despejou restos de demolicao. moradores estao revoltados. CPF 987.654.321-00, aguardo.",entulho,B,entulho:frase:1,sintetico
+"SOCORRO, O VOLUME DO SOM DA CASA NOTURNA ATRAVESSA AS PAREDES ATRÁS DO MERCADO.",barulho,B,barulho:frase:1,sintetico
+venho informar que a copa da árvore cresceu demais e escurece a rua no fim da rua sem saída. ninguém faz nada.,arvore,B,arvore:frase:2,sintetico
+agluém pode ajudar? perturbação do sossego com som ligado a noite toda próximo à creche. aguardo retorno. me respondam no joana.silva@email.com.,barulho,B,barulho:frase:4,sintetico
+ALGUÉM PODE AJUDAR? O MEIO-FIO DESMORONOU DEPOIS DA OBRA PRÓXIMO À CRECHE. AGUARDO RETORNO.,calcada,B,calcada:frase:4,sintetico
+acumulou entulho de reforma bloqueando a passagem próximo à creche. ninguém faz nada.,entulho,B,entulho:frase:2,sintetico
+"OI, SOLICITO EQUIPE DE VARRIÇÃO PARA O QUARTEIRÃO NA VIELA DO BAIRRO. URGENTE!",varricao,B,varricao:frase:3,sintetico
+"oi, não dá para andar no passeio de tanto buraco próximo à creche. urgente!",calcada,B,calcada:frase:3,sintetico
+boa tarde. lombada sem pintura e sem placa de aviso no fim da rua sem saída. moradores estão revoltados.,sinalizacao,B,sinalizacao:frase:4,sintetico
+"socorro, cruzamento perigoso precisa de um semáforo na altura do ponto de ônibus. ninguém faz nada. me respondam no joana.silva@email.com.",sinalizacao,B,sinalizacao:frase:2,sintetico
+"socorro, caminhonete batida esquecida na via. aguardo retorno.",veiculo,B,veiculo:frase:5,sintetico
+venho informar que a pintura da faixa sumiu e os carros nao param.,sinalizacao,B,sinalizacao:frase:0,sintetico
+precisa de corte da grama do parque no fim da rua sem saída. moradores estão revoltados. meu cpf é 123.456.789-09.,capinacao,B,capinacao:frase:4,sintetico
+alguém pode ajudar? o caminhão de coleta passou direto sem paarr no fim da rua sem saída. urgente! contato: 11 91234-5678.,coleta,B,coleta:frase:5,sintetico
+boa tarde. poluição sonora vinda do estabelecimento comercial.,barulho,B,barulho:frase:0,sintetico
+alguém pode ajudar? mtooqueiro caiu por causa do buraco na via próximo à creche. aguardo retorno. contato: 11 91234-5678.,buraco,B,buraco:frase:1,sintetico
+venho informar que erva daninha cobrindo a passagem de pedestres. urgente!,capinacao,B,capinacao:frase:5,sintetico
+"venho informar que pista destruída, impossível passar de carro atrás do mercado. moradores estão revoltados.",buraco,B,buraco:frase:5,sintetico
+alguém pode ajudar? lixo residencial acumulado atraindo bichos na viela do abirro. aguardo retorno. meu cpf é 123.456.789-09.,coleta,B,coleta:frase:4,sintetico
+"socorro, nao da para andar no passeio ed tanto buraco na viela do bairro. ninguem faz nada.",calcada,B,calcada:frase:3,sintetico
+venho informar que morecgos entrando nas casas da vila proximo a creche. aguardo retorno.,pragas,B,pragas:frase:4,sintetico
+boa tarde. montanha de moveis qeubrados e pneus jogados proximo a creche. urgente!,entulho,B,entulho:frase:3,sintetico
+"oi, erva daninha cobrindo a passagem de pedestres no fim da rua sem saída. moradores estão revoltados.",capinacao,B,capinacao:frase:5,sintetico
+venho informar que pedido de remocao de arvore morta. urgnete!,arvore,B,arvore:frase:5,sintetico
+boa tarde. a academia liga música alta muito cedo atárs do mercado. urgente!,barulho,B,barulho:frase:3,sintetico
+boa tarde. cruzamento perigoso precisa de um semaforo no fim da rua sem saida. ninguem faz nada.,sinalizacao,B,sinalizacao:frase:2,sintetico
+"oi, mato alto atrai cobra e escorpião perto das casas na viela do bairro. urgente!",capinacao,B,capinacao:frase:3,sintetico
+alguém pode ajudar? o caminhão de coleta passou direto sem parar na viela do bairro. ninguémf az nada. me respondam no joana.silva@email.com.,coleta,B,coleta:frase:5,sintetico
+boa tarde. achei escorpião dentro de casa de novo. ninguém faz nada.,pragas,B,pragas:frase:1,sintetico
+BOA TARDE. FORMOU UM AFUNDAMENTO GRANED NO PAVIMENTO ATRAS DO MERCADO. NINGUEM FAZ NADA.,buraco,B,buraco:frase:0,sintetico
+"oi, o barranco está coberto de mato atrás do mercado. aguardo retorno. meu telefone é (1)1 98765-4321.",capinacao,B,capinacao:frase:2,sintetico
+veiculo enferrujado ocupando a vaga ha mto tempo na viela do bairro.,veiculo,B,veiculo:frase:0,sintetico
+venho informar qeu cabos arrebentados balançando na calçada. ninguém faz nada.,calcada,B,calcada:frase:0,sintetico
+"oi, faz dias que a coleta domiciliar nao aparece no fim da rua sem saida. urgente!",coleta,B,coleta:frase:0,sintetico
+"socorro, cadeira de rodas não passa pela calçada estreita. ninguém faz nada.",calcada,B,calcada:frase:5,sintetico
+"socorro, mato alto atrai cobra e escorpião perto das casas. ninguém faz nada.",capinacao,B,capinacao:frase:3,sintetico
+boa tarde. papel e garrafa espalhados pela praça toda. urgente!,varricao,B,varricao:frase:5,sintetico
+venho informar que estabelecimento descumpre o horario e faz barulho atras do mercado.,barulho,B,barulho:frase:5,sintetico
+venho informar que a seta da mao de direcao esta errada atras do mercado. aguardo retorno.,sinalizacao,B,sinalizacao:frase:5,sintetico
+"oi, estabelecimento descumpre o horário e faz barulho na viela do bairro. urgente!",barulho,B,barulho:frase:5,sintetico
+"SOCORRO, ACUMULOU ENTULHO DE REFORMA BLOQUEANDO A PASSAGEM NA ALTURA DO PONTO DE ÔNIBUS. AGUARDO RETORNO.",entulho,B,entulho:frase:2,sintetico
+"socorro, árvore tombou sobre um carro estacionado no fim da rua sem saída. urgente!",arvore,B,arvore:frase:3,sintetico
+ALGUÉM PODE AJUDAR? O SINAL DE PEDESTRES NÃO ABRE PRÓXIMO À CRECHE. AGUARDO RETORNO.,sinalizacao,B,sinalizacao:frase:3,sintetico
+"oi, a copa da arvore cresceu demais e escurece a rua na altura do ponto de onibus. urgente!",arvore,B,arvore:frase:2,sintetico
+venho informar que pedido de limpeza da via pública na altura do ponto de ônibus. moradores estão revoltados.,varricao,B,varricao:frase:0,sintetico
+"oi, a operação tapa-buraco nunca passou aqui próximo à creche. moradores estão revoltados.",buraco,B,buraco:frase:4,sintetico
+acumulou entulho de reforma bloqueando a passagem proximo a creche. urgente!,entulho,B,entulho:frase:2,sintetico
+"OI, FICOU LAMA E TERRA NA RUA DEPOIS DA OBRA NO FI MDA RUA SEM SAÍDA.",varricao,B,varricao:frase:1,sintetico
+alguem pode ajudar? a seta da mao de direcao esta errada no fim da rua sem saida. ninguem faz nada.,sinalizacao,B,sinalizacao:frase:5,sintetico
+venho informar que o restaurante poe caixa de som na calcada proximo a creche. urgente! me respondam no joana.silva@email.com.,barulho,B,barulho:frase:2,sintetico
+"oi, emaranhado de fios baixos quase encostando nos carros próximo à creche. ninguém faz nada.",calcada,B,calcada:frase:1,sintetico
+a sarjeta fica empoçada dias depois da chuva no fim da rua sem saída. ninguém faz nada.,drenagem,B,drenagem:frase:0,sintetico
+ALGUEM PODE AJUDAR? O VOLUME DO SOM DA CASA NOTURNA ATRAVESSA AS PAREDES ATRAS DO MERCADO. AGUARDO RETORNO.,barulho,B,barulho:frase:1,sintetico
+"socorro, achei escorpião dentro de casa de novo no fim da rua sem saída. urgente! meu cpf é 123.456.789-09.",pragas,B,pragas:frase:1,sintetico
+"alguém pode ajudar? erva daninha cobrindo a passagem de pedestres próximo à creche. aguardo retorno. CPF 987.654.321-00, aguardo.",capinacao,B,capinacao:frase:5,sintetico
+papel e garrafa espalhados pela praca tod ana altura do ponto de onibus. urgente!,varricao,B,varricao:frase:5,sintetico
+venho informar que morcegos entrando nas casas da vila na altura do ponto de ônibus. moradores estão revoltados.,pragas,B,pragas:frase:4,sintetico
+"oi, um galho quebrou e ficou pendurado. ninguem faz nada.",arvore,B,arvore:frase:1,sintetico
+formou um afundamento grande no pavimento. aguardo retorno. meu cpf e 123.456.789-09.,buraco,B,buraco:frase:0,sintetico
+venho informar que alagamento constante embaixo do viaduto. me respondam no joana.silva@email.com.,drenagem,B,drenagem:frase:5,sintetico
+boa tarde. motoqueiro caiu por causa do buraco na via no fim da rua sem saida. moradores estao revoltados.,buraco,B,buraco:frase:1,sintetico
+boa tarde. achei escorpião dentro de casa de novo atrás do mercado. ninguém faz nada.,pragas,B,pragas:frase:1,sintetico
+"venho informar que o asfalto rachou e esta soltando pedacos atras do mercado. CPF 987.654.321-00, aguardo.",buraco,B,buraco:frase:2,sintetico
+"SOCORRO, LIXO RESIDENCIAL ACUMULADO ATRAINDO BICHOS NA ALTURA DO PONTO DE ÔNIBUS.",coleta,B,coleta:frase:4,sintetico
+vegetacao alta escondendo o ponto de onibus. aguardo retorno.,capinacao,B,capinacao:frase:1,sintetico
+boa tarde. cruzamento perigoso precisa de um semáforo atrás do mercado.,sinalizacao,B,sinalizacao:frase:2,sintetico
+alguem pode ajudar? cachorros rasgando os sacos porque o lixo nao foi recolhido na viela do bairro. urgente!,coleta,B,coleta:frase:2,sintetico
+boa tarde. montanha de móveis quebrados e pneus jogados próximo à creche. moradores estão revoltados.,entulho,B,entulho:frase:3,sintetico
+"SOCORRO, JOGAM RESTOS DE OBRA TODA NOITE NO MESMO LUGAR NA ALTURA DO PONTO DE ONIBUS. NINGUEM FAZ NADA.",entulho,B,entulho:frase:5,sintetico
+boa tarde. um galho quebrou e ficou pendurado na altura do ponto de ônibus. meu cpf é 123.456.789-09.,arvore,B,arvore:frase:1,sintetico
+"oi, perturbação do sossego com som ligado a noite toda na altura do ponto de ônibus. ninguém faz nada.",barulho,B,barulho:frase:4,sintetico
+alguém pode ajudar? jogam restos de obra toda noite no mesmo lugar na viela do bairro. moradores estão revoltados.,entulho,B,entulho:frase:5,sintetico
+venho informar que perturbação do sossego com som ligado a noite toda no fim da rua sem saída. urgente!,barulho,B,barulho:frase:4,sintetico
+"OI, FOCO DE DENGUE NO IMÓVEL ABANDONADO AO LADO. URGENTE!",pragas,B,pragas:frase:2,sintetico
+"oi, foco de dengue no imóvel abandonado ao lado na altura do ponto de ônibus. urgente!",pragas,B,pragas:frase:2,sintetico
+alguém pode ajudar? caminhão parou e despejou restos de demolição atrás do mercado. moradores estão revoltados.,entulho,B,entulho:frase:1,sintetico
+alguém pode ajudar? a coleta recolhe só um lado da rua na altura do ponto de ônibus. moradores estão revoltados.,coleta,B,coleta:frase:3,sintetico
+venho informar que papel e garrafa espalhados pela praça toda próximo à creche. moradores estão revoltados.,varricao,B,varricao:frase:5,sintetico
+"socorro, papel e garrafa espalhados pela praça toda no fim da rua sem saída. ninguém faz nada. me respondam no joana.silva@email.com.",varricao,B,varricao:frase:5,sintetico
+venho informar que caramujo africano se espalhando no terreno na altura do ponto de onibus. moradores estao revoltados.,pragas,B,pragas:frase:3,sintetico
+alguém pode ajudar? foco de dengue no imóvel abandonado ao lado na viela do bairro. moradores estão revoltados.,pragas,B,pragas:frase:2,sintetico
+boa tarde. o sinal de pedestres nao abre na altuar do ponto de onibus. aguardo retorno. meu cpf e 123.456.789-09.,sinalizacao,B,sinalizacao:frase:3,sintetico
+"socorro, um galho quebrou e ficou pendurado próximo à creche. aguardo retorno.",arvore,B,arvore:frase:1,sintetico
+venho informar que tem uma vala no meio da rua que ninguém tapa na viela do bairro. aguardo retorno.,buraco,B,buraco:frase:3,sintetico
+alguém pode ajudar? a sarjeta fica empoçada dias depois da chuva na viela do bairro. moradores estão revoltados.,drenagem,B,drenagem:frase:0,sintetico
+venho informar que a operação tapa-buraco nunca passou aqui na viela do bairro. urgente! meu cpf é 123.456.789-09.,buraco,B,buraco:frase:4,sintetico
+venho informar que faz dias que a coleta domiciliar nao aparece na altura do ponto de onibus. ninguem faz nada. me respondam no joana.silva@email.com.,coleta,B,coleta:frase:0,sintetico
+"oi, o restaurante põe caixa de som na calçada atrás do mercado. ninguém faz nada.",barulho,B,barulho:frase:2,sintetico
+alguém pode ajudar? um galho quebrou e ficou pendurado. ninguém faz nada. me respondam no joana.silva@email.com.,arvore,B,arvore:frase:1,sintetico
+venho informar que solicito rocada da area publica no fim da rua sem saida. ninguem faz nada.,capinacao,B,capinacao:frase:0,sintetico
+"OI, CADEIRA DE RODAS NÃO PASSA PELA CALÇADA ESTREITA AN ALTURA DO PONTO DE ÔNIBUS. URGENTE!",calcada,B,calcada:frase:5,sintetico
+boa tarde. não dá para andar no passeio de tanto buraco. moradores estão revoltados.,calcada,B,calcada:frase:3,sintetico
+boa tarde. descarte irregular de material de construção na praça no fim da rua sem saída.,entulho,B,entulho:frase:0,sintetico
+"socorro, cruzamento perigoso precisa de um semáforo na viela do bairro. ninguém faz nada.",sinalizacao,B,sinalizacao:frase:2,sintetico
+alguem pode ajudar? acumulou entulho de reforma bloqueando a passagem. aguardo retorno.,entulho,B,entulho:frase:2,sintetico
+alguém pode ajudar? cadeira de rodas não passa pela calçada estreita na altura do ponto de ônibus. meu telefone é (11) 98765-4321.,calcada,B,calcada:frase:5,sintetico
+"socorro, ratazanas circulando de dia perto do mercado próximo à creche. urgente! contato: 11 91234-5678.",pragas,B,pragas:frase:0,sintetico
+alguém pode ajudar? lixo residencial acumulado atraindo bichos na altura do ponto de ônibus. ninguém faz nada. me respondam no joana.silva@email.com.,coleta,B,coleta:frase:4,sintetico
+cachorros rasgando os sacos pq o lixo nao foi recolhido nav iela do bairro. ninguem faz nada.,coleta,B,coleta:frase:2,sintetico
+venho informar que sloicito equipe de varrição para o quarteirão atrás do mercado. aguardo retorno.,varricao,B,varricao:frase:3,sintetico
+"socorro, solicito poda da árvore em frente ao número da casa na altura do ponto de ônibus.",arvore,B,arvore:frase:0,sintetico
+"socorro, lixo residencial acumulado atraindo bichos na altura do ponto de onibus. meu cpf e 123.456.789-09.",coleta,B,coleta:frase:4,sintetico
+boa tarde. o sinal de pedestres não abre.,sinalizacao,B,sinalizacao:frase:3,sintetico
+venho informar que o meio-fio desmoronou depois da obra próximo à creche. ninguém faz nada. contato: 11 91234-5678.,calcada,B,calcada:frase:4,sintetico
+"oi, erva daninha cobrindo a passagem de pedestres na altura do ponto de ônibus. moradores estão revoltados.",capinacao,B,capinacao:frase:5,sintetico
+"socorro, caminhonete batida esquecida na via. aguardo retorno.",veiculo,B,veiculo:frase:5,sintetico
+boa tarde. vegetação alta escondendo o ponto de ônibus na viela do bairro. ninguém faz nada.,capinacao,B,capinacao:frase:1,sintetico
+"carro depenado servindo de abrigo para ratos no fim da rua sem saida. CPF 987.654.321-00, aguardo.",veiculo,B,veiculo:frase:1,sintetico
+"OI, O SINAL DE PEDESTRES NÃO ABRE ATRÁS DO MERCDAO. URGENTE!",sinalizacao,B,sinalizacao:frase:3,sintetico
+boa tarde. o caminhao de coleta passou direto sem parar na altura do ponto de onibus. aguardo retorno.,coleta,B,coleta:frase:5,sintetico
+a água volta pelo ralo da rua quando chove na altura do ponto de ônibus. ninguém faz nada.,drenagem,B,drenagem:frase:4,sintetico
+VENHO INFORMAR UQE A COPA DA ÁRVORE CRESCEU DEMAIS E ESCURECE A RUA ATRÁS DO MERCADO. URGENTE!,arvore,B,arvore:frase:2,sintetico
+"oi, jogam restos de obra toda noite no mesmo lugar na viela do bairro. moradores estão revoltados.",entulho,B,entulho:frase:5,sintetico
+a água volta pelo ralo da rua quando chove no fim da rua sem saída. aguardo retorno.,drenagem,B,drenagem:frase:4,sintetico
+"oi, um galho quebrou e ficou pendurado atras do mercado. urgente!",arvore,B,arvore:frase:1,sintetico
+venho informar que caminhonete batida esquecida na via na altura do ponto de onibus. ninguem faz nada.,veiculo,B,veiculo:frase:5,sintetico
+"oi, tem uma vala no meio da rua que ninguém tapa na viela do bairro. urgente!",buraco,B,buraco:frase:3,sintetico
+"oi, solicito roçada da área pública.",capinacao,B,capinacao:frase:0,sintetico
+boa tarde. cadeira de rodas nao passa pela calcada estreita atras do mercado. aguardo retorno.,calcada,B,calcada:frase:5,sintetico
+alguém pode ajudar? dsecarte irregular de material de construção na praça na altura do ponto de ônibus. moradores estão revoltados.,entulho,B,entulho:frase:0,sintetico
+"oi, ficou lama e terra na rua depois da obra atrás do mercado. aguardo retorno.",varricao,B,varricao:frase:1,sintetico
+"oi, papel e garrafa espalhados pela praça toda na viela do bairro. ninguém faz nada.",varricao,B,varricao:frase:5,sintetico
+cabos arrebentados balancando na calcada atras do mercado. ninguem faz nada.,calcada,B,calcada:frase:0,sintetico
+"socorro, o meio-fio desmoronou depois da obra próximo à creche. ninguém faz nada.",calcada,B,calcada:frase:4,sintetico
+"socorro, pedido de remoção de rávore morta. moradores estão revoltados.",arvore,B,arvore:frase:5,sintetico
+"socorro, papel e garrafa espalhados pela praça toda atrás do mercado. urgente!",varricao,B,varricao:frase:5,sintetico
+foco de dengue no imovel abandonado ao lado na viela do bairro.,pragas,B,pragas:frase:2,sintetico
+"socorro, jogam restos de obra toda noite no mesmo lugar proximo a creche. urgente!",entulho,B,entulho:frase:5,sintetico
+"socorro, descarte irregular de material de construcao na praca. ninguem faz nada. meu telefone e (11) 987654-321.",entulho,B,entulho:frase:0,sintetico
+O MEIO-FIO DESMORONOU DEPOIS DA OBRA NA VIELA DO BAIRRO.,calcada,B,calcada:frase:4,sintetico
+"oi, veículo enferrujado ocupando a vaga há mto tempo no fim da rua sem saída. aguardo retorno.",veiculo,B,veiculo:frase:0,sintetico
+alguém pode ajudar? formou um afundamento grande no pavimento. moradores estão revoltados.,buraco,B,buraco:frase:0,sintetico
+"socorro, carro coberto de poeira e folhas, claramente abandonado na viela do bairro. aguardo retorno.",veiculo,B,veiculo:frase:4,sintetico
+alguém pode ajudar? emaranhado de fios baixos quase encostando nos carros na altura do ponto de ônibus. moradores estão revoltados.,calcada,B,calcada:frase:1,sintetico
+boa tarde. a pintura da faixa sumiu e os carors não param na viela do bairro.,sinalizacao,B,sinalizacao:frase:0,sintetico
+a pintura da faixa sumiu e os carros nao param atras do mercado. ninguem faz nada. meu cpf e 123.456.789-09.,sinalizacao,B,sinalizacao:frase:0,sintetico
+"socorro, morcegos entrando nas casas da vila no fim da rua sem saída. aguardo retorno.",pragas,B,pragas:frase:4,sintetico
+"socorro, o barranco está ocberto de mato atrás do mercado.",capinacao,B,capinacao:frase:2,sintetico
+"socorro, papel e garrafa espalhados pela praça toda no fim da rua sem saída. ninguém faz nada.",varricao,B,varricao:frase:5,sintetico
+VENHO INFORMAR QUE CAMINHONETE BATIDA ESQUECIDA NA VIA NO FIM DA RUA SEM SAIDA. AGUARDO RETORNO.,veiculo,B,veiculo:frase:5,sintetico
+descarte irregular de material de construção na parça atrás do mercado.,entulho,B,entulho:frase:0,sintetico
+boa tadre. cabos arrebentados balancando na calcada na altura do ponto de onibus. aguardo retorno.,calcada,B,calcada:frase:0,sintetico
+"socorro, pedido de limpezad a via publica na altura do ponto de onibus. ninguem faz nada.",varricao,B,varricao:frase:0,sintetico
+solicito poda da árvore em frente ao número da casa no fim da rua sem saída. ugrente!,arvore,B,arvore:frase:0,sintetico
+boa tarde. caminhonete batida esquecida na via nof im da rua sem saida. ninguem faz nada.,veiculo,B,veiculo:frase:5,sintetico
+"socorro, ficou lama e terra na rua depois da obra na altura do ponto de onibus. aguardo retorno.",varricao,B,varricao:frase:1,sintetico
+boa tarde. automóvel parado sem ninguém mexer desde o ano passado no fim da rua sem saída. aguardo retorno.,veiculo,B,veiculo:frase:2,sintetico
+alguém pode ajudar? a água volta pelo ralo da rua quando chove próximo à creche. moradores estão revoltados.,drenagem,B,drenagem:frase:4,sintetico
+"SOCORRO, CAMINHONETE BATIAD ESQUECIDA NA VIA. MORADORES ESTÃO REVOLTADOS.",veiculo,B,veiculo:frase:5,sintetico
+"oi, caminhao parou e despejou restos de demolicao atras do mercado. moradores estao revoltados.",entulho,B,entulho:frase:1,sintetico
+carro depenado servindo de abrigo para ratos atrás do emrcado.,veiculo,B,veiculo:frase:1,sintetico
+ALGUÉM PODE AJUDAR? MONTANHA DE MÓVEIS QUEBRADOS E PNEUS JOGADOS. MORADORES ESTÃO REVOLTADOS. MEU CPF É 123.456.789-09.,entulho,B,entulho:frase:3,sintetico
+venho informar que precisa de dedetizacao na praca por causa dos ratos. moradores estao revoltados.,pragas,B,pragas:frase:5,sintetico
+alguem pode ajudar? precisa de limpeza das bocas de lobo antes das chuvas atras do mercado. ninguem faz nada.,drenagem,B,drenagem:frase:3,sintetico
+o poste está rachado na basea trás do mercado.,calcada,B,calcada:frase:2,sintetico
+boa tarde. achei escorpiao dentro de casa de novo na viela do bairro. aguardo retorno. meu telefone e (11) 98765-4321.,pragas,B,pragas:frase:1,sintetico
+"oi, a pintura da faixa sumiu e os carros não param. ninguém faz nada.",sinalizacao,B,sinalizacao:frase:0,sintetico
+ALGUÉM PODE AJUDAR? O BARRANCO ESTÁ COBERTO DE MATO ATRÁS DO MERCADO. NINGUÉM FAZ NADA.,capinacao,B,capinacao:frase:2,sintetico
+VENHO INFORMAR QUE O SINAL DE PEDESTRES NÃO ABRE. AGUARDO RETORNO.,sinalizacao,B,sinalizacao:frase:3,sintetico
+"oi, cruazmento perigoso precisa de um semaforo proximo a creche. urgente!",sinalizacao,B,sinalizacao:frase:2,sintetico
+"oi, árvore tombou sobre um carro estacionado na viela do bairro. meu cpf  é123.456.789-09.",arvore,B,arvore:frase:3,sintetico
+caminhonete batida esquecida na via. moradores estão revoltados.,veiculo,B,veiculo:frase:5,sintetico
+"SOCORRO, CRUZAMENTO PERIGOSO PRECISA DE UM SEMÁFORO ATRÁS DO MERCADO.",sinalizacao,B,sinalizacao:frase:2,sintetico
+"oi, caminhonete batida esquecida na via. moradores estao revoltados.",veiculo,B,veiculo:frase:5,sintetico
+venho informar que solicito equpie de varrição para o quarteirão na viela do bairro.,varricao,B,varricao:frase:3,sintetico
+alguém pode ajudar? poluição sonora vinda do estabelecimento comercial. aguardo retorno.,barulho,B,barulho:frase:0,sintetico
+"oi, a água volta pelo ralo da rua quando chove no fim da rua sem saída.",drenagem,B,drenagem:frase:4,sintetico
+a sarjeta fica empoçada dias depois da chuva no fim da rua sem saída. ninguém faz nada.,drenagem,B,drenagem:frase:0,sintetico
+boa tarde. cachorros rasgando os sacos porque o lixo não foi recolhido atrás do mercado.,coleta,B,coleta:frase:2,sintetico
+venho informar que cupim tomou conta do tronco e está oco atrás do mercado. aguardo retorno. meu cpf é 123.456.7890-9.,arvore,B,arvore:frase:4,sintetico
+"socorro, caramujo africano se espalhando no terreno na viela do bairro. ninguém faz nada.",pragas,B,pragas:frase:3,sintetico
+alguem pode ajudar? a cacamba esta transbordando e ninguem recolhe. ninguem faz nada. meu cpf e 123.456.789-09.,entulho,B,entulho:frase:4,sintetico
+"socorro, o horario da coleta mudou e ninguem avisou na altura do ponto de onibus.",coleta,B,coleta:frase:1,sintetico
+boa tarde. placa de velocidade arrancada da via atras do mercado. ninguem faz nada.,sinalizacao,B,sinalizacao:frase:1,sintetico
+alguém pode ajudar? poluição sonora vinda do estabelecimento comercial atrás do mercado. aguardo retorno.,barulho,B,barulho:frase:0,sintetico
+venho informar que um galho quebrou e ficou pendurado artás do mercado.,arvore,B,arvore:frase:1,sintetico
+"oi, o córrego transbordou e entrou nas casas no fim da rua sem saída. aguardo retorno. CPF 987.654.32-100, aguardo.",drenagem,B,drenagem:frase:1,sintetico
+veiculo enferrujado ocupando a vaga ha muito tempo na altura do ponto de onibus. urgente! me respondam no joana.silva@email.com.,veiculo,B,veiculo:frase:0,sintetico
+"oi, mato alto atrai cobra e escorpiao perto das casas na viela do bairro. aguardo retorno.",capinacao,B,capinacao:frase:3,sintetico
+descarte irregular de material de construção na praça próximo à creche. aguardo retorno.,entulho,B,entulho:frase:0,sintetico
+"boa tarde. a coleta recolhe só um lado da rua atrás do mercado. aguardo retorno. CPF 987.654.321-00, aguardo.",coleta,B,coleta:frase:3,sintetico
+"socorro, não dá para andar no passeio de tanto buraco. urgente!",calcada,B,calcada:frase:3,sintetico
+boa tarde. a sarjeta fica empocada dias depois da chuva na altura do ponto de onibus. aguardo retorno.,drenagem,B,drenagem:frase:0,sintetico
+venho informar que caminhão parou e despejou restos de demolição no fim da rua sem saída.,entulho,B,entulho:frase:1,sintetico
+"oi, precisa de dedetização na praça por causa dos ratos no fim da rua sem saída. ninguém faz nada.",pragas,B,pragas:frase:5,sintetico
+ALGUEM PODE AJUDAR? SOLICITO EQUIPE DE VARRICAO PARA O QUARTEIRAO NA ALTURA DO PONTO DE ONIBUS. NINGUEM FAZ NADA.,varricao,B,varricao:frase:3,sintetico
+boa tarde. o corrego transbordou e entrou nas casas na viela do bairro. ninguem faz nada.,drenagem,B,drenagem:frase:1,sintetico
+boa tarde. um ônibus velho foi largado no terreno da rua no fim da rua sem saída. urgente!,veiculo,B,veiculo:frase:3,sintetico
+BOA TARDE. A ÁGUA VOLTA PELO RALO DA RUA QUANDO CHOVE NA ALTURA DO PONTO DE ÔNIBUS. AGUARDO RETORNO.,drenagem,B,drenagem:frase:4,sintetico
+"socorro, o meio-fio desmoronou depois da obra proximo a creche. ninguem faz nada.",calcada,B,calcada:frase:4,sintetico
+"OI, CABOS ARREBENTADOS BALANÇANDO NA CALÇADA ON FIM DA RUA SEM SAÍDA. URGENTE!",calcada,B,calcada:frase:0,sintetico
+a coleta recolhe só um lado da rua no fim da rua sem saída. urgente!,coleta,B,coleta:frase:3,sintetico
+alguém pode ajudar? restos de feira apodrecendo na calçada próximo à creche. ninguém faz nada.,varricao,B,varricao:frase:4,sintetico
+boa tarde. ratazanas circulando de dia perto do mercado próximo à creche. urgente!,pragas,B,pragas:frase:0,sintetico
+"socorro, cadeira de rodas não passa pela calçada estreita no fim da rua sem saída. urgente!",calcada,B,calcada:frase:5,sintetico
+"OI, SOLICITO PODA DA ÁRVORE EM FRENTE AO NÚMERO DA CASA ATRÁS DO MERCADO. MORADORES ESTÃO REVOLTADOS.",arvore,B,arvore:frase:0,sintetico
+"socorro, árvore tombou sobre um carro estaiconado.",arvore,B,arvore:frase:3,sintetico
+"socorro, o meio-fio desmoronou depois da obra proximo a creche. urgente! me respondam no joana.silva@email.com.",calcada,B,calcada:frase:4,sintetico
+boa tarde. precisa de corte da grama do parque na viela do bairro. urgente!,capinacao,B,capinacao:frase:4,sintetico
+boa tarde. ficou lama e terra na rua depois da obra.,varricao,B,varricao:frase:1,sintetico
+venho informar que a caçamba está transbordando e ninguém recolhe. me respondam no joana.silva@email.com.,entulho,B,entulho:frase:4,sintetico
+boa tarde. carro depenado servindo de abrigo para ratos no fim da rua sem saída. urgente!,veiculo,B,veiculo:frase:1,sintetico
+veículo enferrujado ocupando a vaga há muito tempo atrás do mercado.,veiculo,B,veiculo:frase:0,sintetico
+BOA TARDE. PRECISA DE LIMPEZAD AS BOCAS DE LOBO ANTES DAS CHUVAS ATRÁS DO MERCADO.,drenagem,B,drenagem:frase:3,sintetico
+"oi, formou um afundamento grande no pavimento próximo à creche. urgente!",buraco,B,buraco:frase:0,sintetico
+venho informar que foco de dengue no imóvel abandonado ao lado.,pragas,B,pragas:frase:2,sintetico
+venho informar que descarte irregular de material de construcao na praca na viela do bairro. urgente!,entulho,B,entulho:frase:0,sintetico
+"oi, tem uma vala no meio da rua que ninguem tapa.",buraco,B,buraco:frase:3,sintetico
+"oi, caminhonete batida esquecida na via na altura do ponto de ônibus.",veiculo,B,veiculo:frase:5,sintetico
+"VENHO INFORMAR QUE CARRO COBERTO DE POEIRA E FOLHAS, CLARAMENTE ABANDONADO NO FIM DA RUA SEM SAÍDA. URGENTE!",veiculo,B,veiculo:frase:4,sintetico
+a operacao tapa-buraco nunca passou aqui proximo a creche. urgente! meu cpf e 123.456.789-09.,buraco,B,buraco:frase:4,sintetico
+BOA TARDE. LOMBADA SEM PINTURA E SEM PLACA DE AVISO. NINGUEM FAZ NADA.,sinalizacao,B,sinalizacao:frase:4,sintetico
+"oi, pedido de limpeza da via publica artas do mercado. aguardo retorno.",varricao,B,varricao:frase:0,sintetico
+boa tarde. ficou lama e terra na rua depois da obra. uregnte!,varricao,B,varricao:frase:1,sintetico
+venho informar que achei escorpião dentro de casa de novo no fim da rua sem saída. ninguém faz nada. meu cpf é 123.456.789-09.,pragas,B,pragas:frase:1,sintetico
+"socorro, o barranco está coberto de mato atrás do mercado. aguardo retorno. meu cpf é 123.456.789-09.",capinacao,B,capinacao:frase:2,sintetico
+boa tarde. arvore tmobou sobre um carro estacionado atras do mercado.,arvore,B,arvore:frase:3,sintetico
+"oi, precisa de dedetizacao na praca por causa dos ratos. ninguem faz nada.",pragas,B,pragas:frase:5,sintetico
+"socorro, caminhao parou e despejou restos de demolicao proximo a crehce.",entulho,B,entulho:frase:1,sintetico
+alguém pode ajudar? a coleta recolhe só um lado da rua no fim da rua sem saída. aguardo retorno.,coleta,B,coleta:frase:3,sintetico
+UM GALHO QUEBROU E FICOU PENDURADO ATRÁS DO MERCADO. MEU TELEFONE É (11) 98765-4321.,arvore,B,arvore:frase:1,sintetico
+"formou um afundamento grande no pavimento na altura do ponto de ônibus. CPF 987.654.321-00, aguardo.",buraco,B,buraco:frase:0,sintetico
+boa tarde. árvore tombou sobre um carro estacionado próximo àc reche. moradores estão revoltados.,arvore,B,arvore:frase:3,sintetico
+"boa tarde. carro cboerto de poeira e folhas, claramente abandonado.",veiculo,B,veiculo:frase:4,sintetico
+alguém pode ajudar? estabelecimento descumpre o horário e faz barulho. ninguém faz anda.,barulho,B,barulho:frase:5,sintetico
+lixo residencial acmuulado atraindo bichos proximo a creche.,coleta,B,coleta:frase:4,sintetico
+"oi, carro depenado servindo de abrigo para ratos. urgente!",veiculo,B,veiculo:frase:1,sintetico
+"socorro, ratazanas circulando de dia perto do mercado no fim da rua sem saida. moradores estao revoltados. contato: 11 91234-5678.",pragas,B,pragas:frase:0,sintetico
+estabelecimento descumpre o horario e faz barulho proximo a creche. aguardo retorno.,barulho,B,barulho:frase:5,sintetico
+boa tarde. lombada sem pintura e sem placa de aviso na altura do ponto de ônibus. moradores estão revoltados.,sinalizacao,B,sinalizacao:frase:4,sintetico
+boa tarde. cruzamento perigoso precisa de um semáforo na viela do bairro.,sinalizacao,B,sinalizacao:frase:2,sintetico
+alguém pode ajudar? cruzamento perigoso precisa de um semáforo. urgente!,sinalizacao,B,sinalizacao:frase:2,sintetico
+"oi, a água volta pelo ralo da rua quando chove na viela do bairro. moradores estão revoltados.",drenagem,B,drenagem:frase:4,sintetico
+"oi, erva daninha cobrindo a passagem de pedestres atras do mercado. moradores estao revoltados.",capinacao,B,capinacao:frase:5,sintetico
+ALGUÉM PODE AJDUAR? PEDIDO DE LIMPEZA DA VIA PÚBLICA PRÓXIMO À CRECHE.,varricao,B,varricao:frase:0,sintetico
+venho informar que ficou lama e terra na rua depois da obra próximo à creche. moradores estão revoltados.,varricao,B,varricao:frase:1,sintetico
+agluém pode ajudar? acumulou entulho de reforma bloqueando a passagem no fim da rua sem saída. aguardo retorno.,entulho,B,entulho:frase:2,sintetico
+alguém pode ajudar? a água volta pelo ralo da rua quando chove próximo à creche.,drenagem,B,drenagem:frase:4,sintetico
+"socorro, cachorros rasgando os sacos pq o lixo nao foi recolhido atras do mercado .aguardo retorno.",coleta,B,coleta:frase:2,sintetico
+VENHO INFORMAR QUE LOMBADA SEM PINTURA E SEM PLACA DE AVISO ATRÁS DO MERCADO. NINGUÉM FAZ NADA.,sinalizacao,B,sinalizacao:frase:4,sintetico
+boa tarde. tem uma vala no meio da rua que ninguém tapa na viela do bairro. urgente!,buraco,B,buraco:frase:3,sintetico
+"oi, a caçamba está transbordando e ninguém recolhe atrás do mercado. aguardo retorno.",entulho,B,entulho:frase:4,sintetico
+"oi, mato alto atrai cobra e escorpião perto das casas no fim da rua sem saída. aguardo retorno.",capinacao,B,capinacao:frase:3,sintetico
+"socorro, veiculo enferrujado ocupando a vaga ha muito tempo na altura do ponto de onibus. aguardo retorno.",veiculo,B,veiculo:frase:0,sintetico
+a caçamba está transbordando e ninguém recolhe no fim da rua sem saída. urgente!,entulho,B,entulho:frase:4,sintetico
+"socorro, solicito equipe de varrição para o quarteirão na viela do bairro. moradores estão revoltados.",varricao,B,varricao:frase:3,sintetico
+"oi, caminhonete batida esquecida na via próximo à creche. ninguém faz nada.",veiculo,B,veiculo:frase:5,sintetico
+o restaurante poe caixa de som na calcada. aguardo retorno.,barulho,B,barulho:frase:2,sintetico
+"oi, solicito poda da árvore em frente ao número da casa próximo à creche.",arvore,B,arvore:frase:0,sintetico
+"SOCORRO, RESTOS DE FEIRA APODRECENDO NA CALÇADA NO FIM DA RUA SEM SAÍDA. AGUARDO RETORNO.",varricao,B,varricao:frase:4,sintetico
+"venho informar que precisa de corte da grama do parque próximo à creche. CPF 987.654.321-00, aguardo.",capinacao,B,capinacao:frase:4,sintetico
+alguem pode ajudar? pedido de remocao de arvore morta no fim da rua sem saida. moradores estao revoltados.,arvore,B,arvore:frase:5,sintetico
+venho informar que cupimt omou conta do tronco e esta oco. ninguem faz nada.,arvore,B,arvore:frase:4,sintetico
+"caminhao parou e despejou restos de demolicao proxiom a creche. ninguem faz nada. CPF 987.654.321-00, aguardo.",entulho,B,entulho:frase:1,sintetico
+"socorro, o asfalto rachou e está soltando pedaços no fim da rua sem saída.",buraco,B,buraco:frase:2,sintetico
+perturbação do sossego com som ligado a noite toda na viela do bairro. moradores estão revoltados.,barulho,B,barulho:frase:4,sintetico
+"oi, a pintura da faixa sumiu e os carros não param no fim da rua sem saída.",sinalizacao,B,sinalizacao:frase:0,sintetico
+venho informar que o horario da coleta mudou e ninguem aviso una altura do ponto de onibus. moradores estao revoltados.,coleta,B,coleta:frase:1,sintetico
+boa tarde. o restaurante põe caixa de som na calçada atrás do mercado. ninguém faz nada.,barulho,B,barulho:frase:2,sintetico
