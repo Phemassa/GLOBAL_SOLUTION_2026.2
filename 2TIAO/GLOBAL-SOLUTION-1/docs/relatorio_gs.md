@@ -22,7 +22,7 @@
 
 **Repositório GitHub (privado, compartilhado com fiap-tutoria):** https://github.com/Phemassa/GLOBAL_SOLUTION_2026.2
 
-**Vídeo demonstrativo (YouTube, não listado):** {{VIDEO}}
+**Vídeo demonstrativo (YouTube, não listado):** https://youtu.be/ZWwgtndyjF8
 
 </div>
 
@@ -314,5 +314,5 @@ Tudo foi testado de forma automatizada, inclusive no navegador.
 ## Links da entrega
 
 - **Repositório GitHub (privado, compartilhado com fiap-tutoria):** https://github.com/Phemassa/GLOBAL_SOLUTION_2026.2
-- **Vídeo demonstrativo (YouTube, não listado):** {{VIDEO}}
+- **Vídeo demonstrativo (YouTube, não listado):** https://youtu.be/ZWwgtndyjF8
 - **Dados reais:** https://dados.prefeitura.sp.gov.br/dataset/dados-do-sp156

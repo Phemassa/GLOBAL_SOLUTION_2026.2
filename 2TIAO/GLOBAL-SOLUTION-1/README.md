@@ -72,7 +72,7 @@ Relatório completo (PDF da entrega): [docs/GS_2026-2_GrupoZion_ZelaCidade.pdf](
 
 ### 🔗 Links do Projeto
 
-* **Vídeo de entrega no YouTube (não listado)**: ⚠️ `TODO(humano)`: colar o link depois de publicar o vídeo.
+* **[Vídeo de entrega no YouTube (não listado)](https://youtu.be/ZWwgtndyjF8)**: demonstração da solução, integração entre disciplinas e resultados (2min50s).
 * **[Vídeo (arquivo)](docs/video/ZelaCidade_GrupoZion.mp4)**: o mesmo vídeo (2min50s), com [roteiro e falas](docs/video/ROTEIRO.md).
 * **[Dados do SP156 - Solicitações](https://dados.prefeitura.sp.gov.br/dataset/dados-do-sp156)**: fonte dos dados reais (Prefeitura de São Paulo, CC0).
 

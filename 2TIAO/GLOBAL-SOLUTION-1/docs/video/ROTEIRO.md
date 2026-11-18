@@ -6,7 +6,7 @@ O arquivo [ZelaCidade_GrupoZion.mp4](ZelaCidade_GrupoZion.mp4) (2min49s) foi ger
 - **Demonstração** gravada no navegador enquanto a aplicação roda de verdade.
 - **Narração** com voz neural sintética pt-BR (Microsoft Francisca). Se o grupo preferir narrar, use as falas abaixo; o enunciado pede que o nome do grupo e "QUERO CONCORRER" sejam ditos nos primeiros segundos.
 
-**Publicação:** YouTube como **não listado**; o link vai no fim do PDF de entrega e no README.
+**Publicado no YouTube (não listado):** https://youtu.be/ZWwgtndyjF8
 
 | Tempo | Cena | Na tela | Fala |
 |---|---|---|---|
